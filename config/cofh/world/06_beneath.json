@@ -1,0 +1,178 @@
+{
+    "dependencies": ["beneath", "mekanism", "bigreactors", "rftools", "backportedblocks"],
+    "populate": {
+        "osmium": {
+            "distribution": "uniform",
+			"generator": {
+				"block": "mekanism:oreblock",
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 8
+			},
+			"cluster-count": 8,
+			"min-height": 5,
+			"max-height": 64,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    10
+				]
+			}
+		},
+		"yellowrite": {
+            "distribution": "uniform",
+			"generator": {
+				"block": "bigreactors:oreyellorite",
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 16
+			},
+			"cluster-count": 8,
+			"min-height": 5,
+			"max-height": 128,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    10
+				]
+			}
+		},
+		"uranium": {
+            "distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "immersiveengineering:ore",
+					"properties": {
+						"type": "uranium"
+					}
+				},
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 16
+			},
+			"cluster-count": 8,
+			"min-height": 5,
+			"max-height": 128,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    10
+				]
+			}
+		},
+		"zinc": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "railcraft:ore_metal",
+					"properties": {
+						"variant": "zinc"
+					}
+				},
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 8
+			},
+			"min-height": 5,
+			"max-height": 251,
+			"cluster-count": 8,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					10
+				]
+			},
+			"retrogen": true
+		},
+		"certus": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "appliedenergistics2:quartz_ore",
+						"weight": 80
+					},
+					{
+						"name": "appliedenergistics2:charged_quartz_ore",
+						"weight": 20
+					}
+				],
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 8
+			},
+			"min-height": 5,
+			"max-height": 251,
+			"cluster-count": 8,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					10
+				]
+			},
+			"retrogen": true
+		},
+		"dimshard": {
+            "distribution": "uniform",
+			"generator": {
+				"block": "rftools:dimensional_shard_ore",
+				"material": "backportedblocks:deepslate",
+				"cluster-size": 6
+			},
+			"cluster-count": 16,
+			"min-height": 5,
+			"max-height": 255,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    10
+				]
+			}
+        },
+		"pyro_lakes": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "lake",
+				"block": "thermalfoundation:fluid_pyrotheum",
+				"outline-block": "backportedblocks:blackstone",
+				"material": "backportedblocks:deepslate",
+				"use-material": true
+			},
+			"min-height": 5,
+			"max-height": 251,
+			"cluster-count": 2,
+			"chunk-chance": 4,
+			"retrogen": true,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    10
+				]
+			}
+		},
+		"cryo_lakes": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "lake",
+				"block": "thermalfoundation:fluid_cryotheum",
+				"outline-block": "minecraft:packed_ice",
+				"material": "backportedblocks:deepslate",
+				"use-material": true
+			},
+			"min-height": 5,
+			"max-height": 251,
+			"cluster-count": 2,
+			"chunk-chance": 4,
+			"retrogen": true,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    10
+				]
+			}
+		}
+    }
+}

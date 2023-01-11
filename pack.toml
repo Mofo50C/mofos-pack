@@ -1,0 +1,13 @@
+name = "Mofos Pack"
+author = "Mofo"
+version = "3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5541390baf7056244b3fd9d9e3a1b793d71b9e1364481f589eaaa88a6f68dd85"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

@@ -1,0 +1,13 @@
+name = "Dude! Where's my Horse?"
+filename = "dwmh-1.12.2-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd1645131e3a9e3d3b87fcbd301cd5073b033a97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2775689
+project-id = 308843

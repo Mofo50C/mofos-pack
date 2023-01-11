@@ -1,0 +1,1 @@
+recipes.remove(<netherex:amethyst_block>);

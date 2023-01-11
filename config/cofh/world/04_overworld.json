@@ -1,0 +1,133 @@
+{
+	"dependencies": ["biomesoplenty", "backportedblocks"],
+	"populate": {
+		"gem_cluster": {
+			"enabled": true,
+			"distribution": "uniform",
+			"generator": {
+				"type": "geode",
+				"crust": "backportedblocks:tuff",
+				"block": [
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "ruby"
+						}
+					},
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "peridot"
+						}
+					},
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "topaz"
+						}
+					},
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "tanzanite"
+						}
+					},
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "malachite"
+						}
+					},
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "sapphire"
+						}
+					},
+					{
+						"name": "biomesoplenty:gem_ore",
+						"properties": {
+							"variant": "amber"
+						}
+					},
+					"diamond_ore",
+					"emerald_ore"
+				],
+				"material": "stone"
+			},
+			"min-height": 4,
+			"max-height": 32,
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"retrogen": "true",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+        "amethyst_geode": {
+			"enabled": true,
+			"distribution": "uniform",
+			"generator": {
+				"type": "sequential",
+				"generators": [
+					{
+						"type": "boulder",
+						"block": {
+							"name": "backportedblocks:basalt",
+							"properties": {
+								"variant": "smooth"
+							}
+						},
+						"diameter": 6,
+						"size-variance": 0,
+						"count": 1,
+						"material": "stone"
+					},
+					{
+						"type": "boulder",
+						"block": "backportedblocks:calcite",
+						"diameter": 5,
+						"size-variance": 0,
+						"count": 1,
+						"material": {
+							"name": "backportedblocks:basalt",
+							"properties": {
+								"variant": "smooth"
+							}
+						}
+					},
+					{
+						"type": "boulder",
+						"block": "backportedblocks:amethyst_block",
+						"diameter": 4,
+						"size-variance": 0,
+						"count": 1,
+						"material": "backportedblocks:calcite"
+					},
+					{
+						"type": "boulder",
+						"block": "air",
+						"diameter": 3,
+						"size-variance": 0,
+						"count": 1,
+						"material": "backportedblocks:amethyst_block"
+					}
+				]	
+			},
+			"retrogen": true,
+			"min-height": 4,
+			"max-height": 48,
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+        }
+	}
+}

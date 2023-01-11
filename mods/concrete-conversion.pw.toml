@@ -1,0 +1,13 @@
+name = "Concrete Conversion"
+filename = "Concrete Conversion-1.12.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75affb2959900849e17a64e70c14290e74e19481"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2633883
+project-id = 297318

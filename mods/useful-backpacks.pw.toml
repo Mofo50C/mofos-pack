@@ -1,0 +1,13 @@
+name = "Useful Backpacks"
+filename = "useful_backpacks-1.12.2-1.5.4.85.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28220332b1597ae5b262bd9ceaef0cf4ab2b4ab3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3104696
+project-id = 274338

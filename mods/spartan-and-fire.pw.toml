@@ -1,0 +1,13 @@
+name = "Spartan and Fire"
+filename = "spartanfire-0.08.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b93ef1411f9f5ef9b4cd2b596568487711c6cd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2939839
+project-id = 298969
