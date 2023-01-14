@@ -10,6 +10,3 @@ recipes.addShaped("nametag", <minecraft:name_tag>,
 [	[null, null, <ore:ingotIron>],
 	[null, <minecraft:paper>, null],
 	[<minecraft:paper>, null, null]	]);
-
-// ender enchantment table (from lapis stay in table)
-recipes.remove(<csb_ench_table:ender_enchanting_table>);

@@ -2496,6 +2496,10 @@ hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
 
 [[files]]
+file = "mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
+
+[[files]]
 file = "mods/project-red-compat.pw.toml"
 hash = "9e26a0599000e5c66a5836ae043123524c492fa6b2e2274646692947acec224a"
 metafile = true
@@ -2860,7 +2864,7 @@ hash = "7e0a5e14dd87df2df619d9b898d807b79aae06ff0113f57e59b73fb84cf9ae30"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "f10a8a1ccb57d70ed8903199891a254f798d7e34235544789d16e595a5286c48"
+hash = "ef2a01b69c4558d08c0d824f8d61246d2968fbd1122ecf91beef19d7a1b65c4c"
 
 [[files]]
 file = "scripts/netherex.zs"
