@@ -18,14 +18,6 @@ var tome_full = <akashictome:tome>.withTag(
                 },
                 Damage: 0 as short
             },
-            conarm: {
-                id: "conarm:book", 
-                Count: 1 as byte, 
-                tag: {
-                    "akashictome:definedMod": "conarm"
-                },
-                Damage: 0 as short
-            },
             immersiveengineering: {
                 id: "immersiveengineering:tool", 
                 Count: 1 as byte, 
@@ -114,23 +106,17 @@ var tome_full = <akashictome:tome>.withTag(
                 }, 
                 Damage: 0 as short
             },
+            botania: {
+                id: "botania:lexicon", 
+                Count: 1 as byte, 
+                tag: {"akashictome:definedMod": "botania"}, 
+                Damage: 0 as short
+            },
             twilightforest: {
                 id: "patchouli:guide_book", 
                 Count: 1 as byte, 
                 tag: {
                     "patchouli:book": "twilightforest:guide"
-                }, 
-                Damage: 0 as short
-            },
-            woot: {
-                id: "guideapi:woot-guide", 
-                Count: 1 as byte, 
-                tag: {
-                    "akashictome:definedMod": "woot", 
-                    "G-API_Category_Page": 0, 
-                    "G-API_Category": 1, 
-                    "G-API_Entry_Page": 0, 
-                    "G-API_Page": 0
                 }, 
                 Damage: 0 as short
             },
@@ -142,14 +128,6 @@ var tome_full = <akashictome:tome>.withTag(
                     "patchouli:book": "deepmoblearning:book"
                 }, 
                 Damage: 0 as short
-            },
-            opencomputers: {
-                id: "opencomputers:tool", 
-                Count: 1 as byte, 
-                tag: {
-                    "akashictome:definedMod": "opencomputers"
-                }, 
-                Damage: 4 as short
             }
         }
     }
