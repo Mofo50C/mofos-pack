@@ -1829,6 +1829,18 @@ file = "config/xtones.cfg"
 hash = "2ceef3bc4218cd4b75422259c84013d90c9672536d4810acbf067d1b1c2b7a31"
 
 [[files]]
+file = "mods/LibraryEx-1.12.2-1.2.2.jar"
+hash = "f76cd42e30f962aa8115b6128c6bf54dd54ded35bcc2fd048f8071d1862cb33f"
+
+[[files]]
+file = "mods/NetherEx-1.12.2-2.2.5.jar"
+hash = "ab71d3f63d8905727c769ddfe8c4849d735a4d9feb502a9135ce27e16bca815e"
+
+[[files]]
+file = "mods/YARCF-0.14(1.12.2).jar"
+hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a16f4f4dec18809a08f214522afdbee126f7f475285adf9e329f2bc54a53f5bc"
 metafile = true
@@ -2304,11 +2316,6 @@ hash = "21e1c7795d5c8cb8d95db171d42dda4fa3065e6bc1e59d6cb5c9b6e44d7008b5"
 metafile = true
 
 [[files]]
-file = "mods/libraryex.pw.toml"
-hash = "3b801e140a30d59835776b7382e90fe95068e1dbb1204289f68ad8ee49d9d27f"
-metafile = true
-
-[[files]]
 file = "mods/llibrary.pw.toml"
 hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
 metafile = true
@@ -2416,11 +2423,6 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "799a1e945853fb75bfa3aaa45a1d120714f62c619535cb0e15b6d89af1d34fe4"
-metafile = true
-
-[[files]]
-file = "mods/netherex.pw.toml"
-hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
 metafile = true
 
 [[files]]
@@ -2729,13 +2731,12 @@ hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
-metafile = true
+file = "mods/tmel-1.12.2-1.4.0.0.jar"
+hash = "badc34cd6ec72a5adf82921e591d2ce3d67593f89e5dbc5b5be1c4191144d2b3"
 
 [[files]]
-file = "mods/too-many-efficiency-losses.pw.toml"
-hash = "0051c3b051dd94db2ce230cf78d0795ad4b2b17a7f4de12cf2915a79bba69369"
+file = "mods/toast-control.pw.toml"
+hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
 metafile = true
 
 [[files]]
@@ -2801,11 +2802,6 @@ metafile = true
 [[files]]
 file = "mods/xtones.pw.toml"
 hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
-metafile = true
-
-[[files]]
-file = "mods/yarcf.pw.toml"
-hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
 metafile = true
 
 [[files]]
