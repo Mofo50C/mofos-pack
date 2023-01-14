@@ -1310,7 +1310,7 @@ hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
 file = "config/harvestcraft.cfg"
-hash = "35cc24a02046e91f0a5cadb420a028a0e87fc94f3162499e3a36b5ef91dd23f7"
+hash = "5c4158814a3ba3fc8b898fa1e367d7c9c35aef8e0992dc8aa3552636705bf51d"
 
 [[files]]
 file = "config/harvestcraft_fruittree.cfg"
