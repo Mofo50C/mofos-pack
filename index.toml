@@ -1937,7 +1937,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+hash = "8f33477af900c12942185f33cbd3664425103d5d71de6e08c42e0df1232a07fa"
 metafile = true
 
 [[files]]
@@ -1947,7 +1947,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-placement.pw.toml"
-hash = "a1cf61bc3d35c181831648528a42e17b89f921332789768220312611e0384ff4"
+hash = "3139831b8d54cfb8ed04068d507fead24714308ac22308b24a6a870cdc9ee1fe"
 metafile = true
 
 [[files]]
@@ -2082,7 +2082,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "9f63b0e2e436f6aa75764fffff1e8cb233062240ad5b999a51a936da927e578b"
+hash = "3be98999428c6d61f59307631e161da2effd9ed7493dc92774882f4e2f775611"
 metafile = true
 
 [[files]]
@@ -2142,7 +2142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-culling.pw.toml"
-hash = "b47434ee5c982bc452043a0f5085cd060d3df13317e00befe3633cfa8380d400"
+hash = "d03b7d47d5202103d10d24cbaf16af182ca1a02e099ece44c5952e7cb0c8cbe0"
 metafile = true
 
 [[files]]
@@ -2262,7 +2262,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
-hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
+hash = "6f0f0279ebcea34ed9caca99a10130e3e94f1fc2199155185a31fa7e29a84a59"
 metafile = true
 
 [[files]]
@@ -2382,12 +2382,12 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays.pw.toml"
-hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
+hash = "d9dbc8ced8fcfe4c0b04e8e7c13cc65f53ce499539d495ae0dc04f0d9e870631"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]
@@ -2494,10 +2494,6 @@ metafile = true
 file = "mods/placebo.pw.toml"
 hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
-
-[[files]]
-file = "mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
-hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
 
 [[files]]
 file = "mods/project-red-compat.pw.toml"
@@ -2636,7 +2632,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-font.pw.toml"
-hash = "141a24db12cf5167dd2446d7d68c49ddf238ff6c48d588cd14440af5b42a5787"
+hash = "8f18aeb339a5c9f0576a69e5ae0c6f27cf32b7abbbf303415338a995ce4aaeda"
 metafile = true
 
 [[files]]
@@ -2740,7 +2736,7 @@ hash = "badc34cd6ec72a5adf82921e591d2ce3d67593f89e5dbc5b5be1c4191144d2b3"
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+hash = "68ad81bee8562b519f1160e7bd2874a2b3c203681939be3c0f03e462a16a48e1"
 metafile = true
 
 [[files]]
