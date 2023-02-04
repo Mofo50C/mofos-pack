@@ -1896,6 +1896,11 @@ hash = "66e34a1e0bfd3a9ee39b1f58b1af494b843fa22979a28207f397e4710547b9d2"
 metafile = true
 
 [[files]]
+file = "mods/architecturecraft-tridev.pw.toml"
+hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
+metafile = true
+
+[[files]]
 file = "mods/aroma1997core.pw.toml"
 hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
@@ -1968,6 +1973,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
+file = "mods/blockcraftery.pw.toml"
+hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
 metafile = true
 
 [[files]]
@@ -2087,7 +2097,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "586a89f27eec933e166c5e1fb90f0909b9f2b219419a432aaad1e1c8865edd28"
+hash = "5a604eefd6d3e27579191c1a1ef1bd9c066b9ccbfdf02485c8f947bc7898d2ef"
 metafile = true
 
 [[files]]
@@ -2282,12 +2292,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "0f985dadcd3c8afa91393c18060ac2c73bda46e214f7e027cad805138ded38f5"
+hash = "abdb4c7a4c1ea0828140083b0649449c41bf147b2a2ca0b4a53562d6789ec960"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a39db085d980dcf786ea711276308ab7a0ef8424da5c3fb258389b78b6ef4023"
+hash = "ad31b269f91a5d20469089ecfb8bbf9e9966f30b39ad75368d7203a4992e0a02"
 metafile = true
 
 [[files]]
@@ -2413,6 +2423,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
+metafile = true
+
+[[files]]
+file = "mods/mysticallib.pw.toml"
+hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
@@ -2647,7 +2662,7 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "a9e7810f199491f293e93500e35010d7f97a6eaffe3df2eda60da4804e8bf2a0"
+hash = "686d5af25e8358507478896eae833b0694d6550d587b37d69b49d1e4d47e4bdb"
 metafile = true
 
 [[files]]
@@ -2663,6 +2678,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "c7cc5deb2c40eab1824622a0d48a15e2aab18d967a935c8f4c0c5fc5fe80fa86"
+metafile = true
+
+[[files]]
+file = "mods/super-sound-muffler-revived.pw.toml"
+hash = "5658fb3fc745ba472457092404524f95fecfbf4cd3e09ddb7d1990d9d8aa7480"
 metafile = true
 
 [[files]]
