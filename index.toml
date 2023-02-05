@@ -2022,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "cee97ed48e3ea7095917d92c891d7af5db23ad24c689f3e31c6968e95421a2d7"
+hash = "8ee8837cbeb5778356938eca45034146e1a75aa7a0a794a4ba84e110e999b1dc"
 metafile = true
 
 [[files]]
@@ -2077,7 +2077,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e8d1cfc13226f6633ebd7fef08e6818471969453778bb4d7e99c8ca09250831a"
+hash = "64a13a354a622a06b8a60fc66e9720d1e1938e4cc1d02f626b0bf049efebd513"
 metafile = true
 
 [[files]]
@@ -2102,7 +2102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm.pw.toml"
-hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+hash = "1d529eda949507fa4491da34cda9c048aa146e7360323f45e50d8f2d4dca2f13"
 metafile = true
 
 [[files]]
@@ -2132,7 +2132,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
+hash = "492ba677350d89636b19d9f7c506ed3279f8e535c05101b16145601d5ee76f27"
 metafile = true
 
 [[files]]
@@ -2162,7 +2162,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-tooltips.pw.toml"
-hash = "b38bd967fb770b1211f53d8e1904a49ca929244153d233e812a68a31319ec8b0"
+hash = "f7e122114dca3e21c578da88153def35f6ed2b89ace7a4b637acd44cfb097e7c"
 metafile = true
 
 [[files]]
@@ -2317,7 +2317,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
+hash = "960650f4da4cbdb28a1eafb9bc94bb8b4ea88587b03e202c1912ff216c6e2c39"
 metafile = true
 
 [[files]]
@@ -2382,7 +2382,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
-hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
+hash = "3734d70704626c28a955744664944226e5d31b397b54967a12e0013cedaf6762"
 metafile = true
 
 [[files]]
@@ -2437,7 +2437,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "799a1e945853fb75bfa3aaa45a1d120714f62c619535cb0e15b6d89af1d34fe4"
+hash = "6fc71bf665222edefe9b25de5c2d473aefba55a449c99ad89186c0d7ceaabeb5"
 metafile = true
 
 [[files]]
@@ -2472,7 +2472,7 @@ metafile = true
 
 [[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
-hash = "6b28b14cf57721f3b5b69c72fb4e6830736fb1cfe41a672ebf315c9c8666ffc9"
+hash = "2c6b8ab3a33570c3418efc8a08052619e73dc98a48a50ff41aa522c9e2678d1b"
 metafile = true
 
 [[files]]
@@ -2492,12 +2492,17 @@ metafile = true
 
 [[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "4aa2f981dc95c7d1f5aa9cb619c9a588fe17877fe7472aa39052e3eb4545dd52"
+hash = "ca5225625901963e18cce2879ffa85a8f81d58679a8039bc21c6831b1c17d4b7"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/performant.pw.toml"
+hash = "5865f55ac3ee06486892780710061e5a93d803c16bfaa346520b4203c8f124fc"
 metafile = true
 
 [[files]]
