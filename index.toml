@@ -2292,7 +2292,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "abdb4c7a4c1ea0828140083b0649449c41bf147b2a2ca0b4a53562d6789ec960"
+hash = "600c903e8313d36ed9f036e9bf3ca7e2909d47442e088e559e2ed99ef2d500ff"
 metafile = true
 
 [[files]]
