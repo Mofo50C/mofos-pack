@@ -1,12 +1,12 @@
 name = "Mofos Pack"
 author = "Mofo"
-version = "3.3"
+version = "3.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6152a65a07140359df0cc42750ec6038d113d573deff8171ece04b9b59c92fa8"
+hash = "967e551f97f522953766a2a9856eb0742b78f3711078164a23a3665108f46c4b"
 
 [versions]
 forge = "14.23.5.2860"
