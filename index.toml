@@ -2131,11 +2131,6 @@ hash = "7aa641ac8c4f980b5194b933f98b66a980f06211d876bc0bf0b69d4579e077af"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "44208107f7880403df715a86f3f7dd86d34a7ae50f40b9e8914a19bce8c1dc3b"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "492ba677350d89636b19d9f7c506ed3279f8e535c05101b16145601d5ee76f27"
 metafile = true
@@ -2658,11 +2653,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-font.pw.toml"
 hash = "8f18aeb339a5c9f0576a69e5ae0c6f27cf32b7abbbf303415338a995ce4aaeda"
-metafile = true
-
-[[files]]
-file = "mods/smooth-zoom.pw.toml"
-hash = "ef287ddce7a258f65fcd4f09c2028be170a6dd9542a0e677ab7570974fc9600a"
 metafile = true
 
 [[files]]
