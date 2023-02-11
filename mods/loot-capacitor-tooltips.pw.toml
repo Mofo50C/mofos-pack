@@ -1,0 +1,13 @@
+name = "Loot Capacitor Tooltips"
+filename = "lootcapacitortooltips-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "60008387"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2687139
+project-id = 316304

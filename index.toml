@@ -2855,6 +2855,11 @@ hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
 metafile = true
 
 [[files]]
+file = "mods/loot-capacitor-tooltips.pw.toml"
+hash = "7aafa40d170a1c9353d1039b37bf91440222a08adb22ec511315c94844680393"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "db3a680572886f73b9deb186e5d4bccee994790725665df27cfb2688a8770918"
 metafile = true
