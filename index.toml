@@ -2856,7 +2856,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-capacitor-tooltips.pw.toml"
-hash = "7aafa40d170a1c9353d1039b37bf91440222a08adb22ec511315c94844680393"
+hash = "6b744fa702fe5ba909931b42f7ae9207f2274f4ffb5022010d56af954cc6577f"
 metafile = true
 
 [[files]]
