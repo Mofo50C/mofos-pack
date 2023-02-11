@@ -2646,6 +2646,11 @@ hash = "17cea7e7cdd773e26d3dea03a96a8d4a330748a8b83124edec8b174f09d53fff"
 metafile = true
 
 [[files]]
+file = "mods/simple-tomb.pw.toml"
+hash = "2e798a5bd0838aabb00f43cd8c3150284b54d2b483d42ed16da228e15ecf7da0"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "c1b6034f0ae5daf4abb31b208d03af292d3ab991c5987d7b9c368f30492c139d"
 metafile = true
