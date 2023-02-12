@@ -3109,6 +3109,11 @@ hash = "408a04f11e5fe4450d5f2d5d52a9aa1cc309edb2eae7860bee1597bd9c36b01c"
 metafile = true
 
 [[files]]
+file = "mods/random-things.pw.toml"
+hash = "568fdad52f685a4b155371508db94667f9a198168cfd602d806409313d0276cb"
+metafile = true
+
+[[files]]
 file = "mods/randompatches-forge.pw.toml"
 hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
