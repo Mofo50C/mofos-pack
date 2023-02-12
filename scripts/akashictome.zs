@@ -128,6 +128,14 @@ var tome_full = <akashictome:tome>.withTag(
                     "patchouli:book": "deepmoblearning:book"
                 }, 
                 Damage: 0 as short
+            },
+            cyclicmagic: {
+                id: "guideapi:cyclicmagic-guide", 
+                Count: 1 as byte, 
+                tag: {
+                    "akashictome:definedMod": "cyclicmagic"
+                }, 
+                Damage: 0 as short
             }
         }
     }

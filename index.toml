@@ -29,6 +29,10 @@ file = "config/Extreme Reactors/Extreme Reactors.cfg"
 hash = "abaab9f77aa35212e3838c8051db6f5aca3585e1dd811e39082576a8a4e11b36"
 
 [[files]]
+file = "config/FarmingForBlockheads/Market.json"
+hash = "6c36e065cf3b3355355855a10c797e6b319d78e58988347d672534169de32c77"
+
+[[files]]
 file = "config/Guide-API/Guide-API.cfg"
 hash = "3f66c594f0aa7027ceb89dba219e426774461f811f2621c3816f3b08c277d21e"
 
@@ -849,6 +853,14 @@ file = "config/ctm.cfg"
 hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
 
 [[files]]
+file = "config/cyclic_ores.cfg"
+hash = "e5ca805674dda16bd3983d96d33e32327dd1c66b200da92b787a33de1e7ba1e8"
+
+[[files]]
+file = "config/cyclicmagic.cfg"
+hash = "6ed49703238e0109e4729536202ca01a3d592e7d4bd44c1a66aa7d012d92583c"
+
+[[files]]
 file = "config/darkutils.cfg"
 hash = "74fbf36297c2620f03c1e4f4bd36fbb399712cf22515c9898c5148a93af46ada"
 
@@ -1247,6 +1259,10 @@ hash = "e767b61c1d9b126a66d884395ad5383d41e90fc83b57838970e7706be2d82a30"
 [[files]]
 file = "config/extrautils2.cfg"
 hash = "804e5c2d43495dd6faaf2b4621e7ca7660e4f9159f95ce96589ec0b4491b5f7d"
+
+[[files]]
+file = "config/farmingforblockheads.cfg"
+hash = "ab0fd9cc1fdd222c5b178a73c31e8854623defa9e203073f265ec9a40765c164"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -3109,11 +3125,6 @@ hash = "408a04f11e5fe4450d5f2d5d52a9aa1cc309edb2eae7860bee1597bd9c36b01c"
 metafile = true
 
 [[files]]
-file = "mods/random-things.pw.toml"
-hash = "568fdad52f685a4b155371508db94667f9a198168cfd602d806409313d0276cb"
-metafile = true
-
-[[files]]
 file = "mods/randompatches-forge.pw.toml"
 hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
@@ -3403,7 +3414,7 @@ hash = "3bd9e0855397dfd5a286a256ec6bf2937dc8fafbfaadb0774dc115b3069bd2e7"
 
 [[files]]
 file = "scripts/akashictome.zs"
-hash = "28fbf02b2fcd2de3784df21f200189fbc3c0eb1e618d53a04c62cf62dbb05e53"
+hash = "988dc67053ecc66558c011466ef9b76cd360296ee68f46fe33908082fc4a0f26"
 
 [[files]]
 file = "scripts/backportedblocks.zs"
