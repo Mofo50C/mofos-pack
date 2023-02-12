@@ -3139,6 +3139,11 @@ hash = "bff691af416c451674e300f0bdaf89b1d7450aa7ad275421ce7f50fd65463438"
 metafile = true
 
 [[files]]
+file = "mods/ranged-pumps.pw.toml"
+hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
 metafile = true
