@@ -2373,6 +2373,10 @@ file = "config/xtones.cfg"
 hash = "10c212439ac422358b053ebaab8b8728623a0533ca944e6958007af40e947f22"
 
 [[files]]
+file = "local/ftbutilities/ranks.txt"
+hash = "c2dc6e6a211d4c8dd438527a02e832b786301a4ecdcbac88895019db18f2e76a"
+
+[[files]]
 file = "mods/LibraryEx-1.12.2-1.2.2.jar"
 hash = "f76cd42e30f962aa8115b6128c6bf54dd54ded35bcc2fd048f8071d1862cb33f"
 
