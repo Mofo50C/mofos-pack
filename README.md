@@ -1,1 +1,1 @@
-Pack version: 3.5
+Pack version: 3.6
