@@ -1,5 +1,5 @@
 {
-    "dependecies": ["thermalfoundation", "mekanism", "bigreactors", "projectred-exploration"],
+    "dependecies": ["thermalfoundation", "mekanism", "bigreactors"],
     "populate": {
 		"iron_nickel": {
 			"distribution": "uniform",
@@ -164,30 +164,6 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": "redstone_ore",
-				"material": "minecraft:stone",
-				"cluster-size": 64
-			},
-			"cluster-count": 2,
-			"min-height": 4,
-			"max-height": 64,
-			"retrogen": true,
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    -11325
-                ]
-			}
-		},
-		"electrotine_large": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "projectred-exploration:ore",
-					"properties": {
-						"type": "electrotine_ore"
-					}
-				},
 				"material": "minecraft:stone",
 				"cluster-size": 64
 			},

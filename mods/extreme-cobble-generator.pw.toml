@@ -1,0 +1,13 @@
+name = "Extreme Cobble Generator"
+filename = "extreme_cobble_generator-1.12.2-1.0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "297552876"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2718345
+project-id = 295431

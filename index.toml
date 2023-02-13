@@ -77,24 +77,12 @@ file = "config/MouseTweaks.cfg"
 hash = "ed64d87702ff5896364c017eb3d6f815fc7e90312aabe535be320f231cd40e41"
 
 [[files]]
-file = "config/MrTJPCore.cfg"
-hash = "ec37a9f555ecdf0c4e0c4f004a0b7fc034c145e6bb1b10917f36875c126131c1"
-
-[[files]]
 file = "config/NomadicTents.cfg"
 hash = "cc3fca1f61853017088554e78e7e373096b99551c3c54ee990447c8e95d20400"
 
 [[files]]
 file = "config/OreDictInit.cfg"
 hash = "eeba715b3fc89303b8460f36f1bec754c7506eb90f30f35d5624431bc175ccef"
-
-[[files]]
-file = "config/ProjectRed.cfg"
-hash = "b2b12425e9d432332971723e8f2b5f6a9d80e5fa2bc04c62fef96276c6a1455e"
-
-[[files]]
-file = "config/ProjectRedRelocation.cfg"
-hash = "0bf6f3ba8ecb7311e9f0782758aef5c94b6aa21cf2623c28193dbc99418bbd33"
 
 [[files]]
 file = "config/SimpleSponge.cfg"
@@ -818,7 +806,7 @@ hash = "144d289f9aa965929dfe989df363eafe8dc764cc902f16197ffe7948a745e247"
 
 [[files]]
 file = "config/cofh/world/07_deepdark.json"
-hash = "915d69b3c0cab87cf8b861bacbee56e9b716814f943e439550f93e649e7af804"
+hash = "b64616f5b090aaadaf0769d4af2f4ea62b3624dc83dbea64267bd08924f199a3"
 
 [[files]]
 file = "config/cofh/world/config.cfg"
@@ -2017,10 +2005,6 @@ file = "config/mowziesmobs.cfg"
 hash = "ca0230ae155f0774eb6ace8807b1db61a83487e6e5d46bf58b6eb1c55a80ae50"
 
 [[files]]
-file = "config/multipart.cfg"
-hash = "cc6a5f19afb365f55ebaf05e46b6dcc56aa47b4b286973b727ae3514b92d6635"
-
-[[files]]
 file = "config/mysticalagriculture.cfg"
 hash = "73dd32db3b7898181337fb81f37d5d45e80afe93b14db89e3477464b83e2acc7"
 
@@ -2558,11 +2542,6 @@ hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
-file = "mods/cb-multipart.pw.toml"
-hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
 metafile = true
@@ -2730,6 +2709,11 @@ metafile = true
 [[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
+metafile = true
+
+[[files]]
+file = "mods/extreme-cobble-generator.pw.toml"
+hash = "7f7df29c631999c80ed22077354cbc421439cd522c4079433122fbf314814a99"
 metafile = true
 
 [[files]]
@@ -2983,11 +2967,6 @@ hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
 metafile = true
 
 [[files]]
-file = "mods/mrtjpcore.pw.toml"
-hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
-metafile = true
-
-[[files]]
 file = "mods/mtlib.pw.toml"
 hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
@@ -3085,41 +3064,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
-metafile = true
-
-[[files]]
-file = "mods/project-red-compat.pw.toml"
-hash = "9e26a0599000e5c66a5836ae043123524c492fa6b2e2274646692947acec224a"
-metafile = true
-
-[[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
-metafile = true
-
-[[files]]
-file = "mods/project-red-expansion.pw.toml"
-hash = "c025482d5ec4ffd3d6ce8eb6d6ca124249abaf0ee1d81b8d62b47092758a07b1"
-metafile = true
-
-[[files]]
-file = "mods/project-red-exploration.pw.toml"
-hash = "475a9a15b9a6e47ec1ad4722983a109046209c32e8d08f2fc2e4d21807c3a3bb"
-metafile = true
-
-[[files]]
-file = "mods/project-red-fabrication.pw.toml"
-hash = "5fa32c1398a3cfaeae452768d7bb396e441b50300e4332fa7ddabab62dd835ba"
-metafile = true
-
-[[files]]
-file = "mods/project-red-illumination.pw.toml"
-hash = "15245f83ee8fdddade8e9172a821d24df3cb955ae3da98f3a5c3eaae9c43a34d"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
 metafile = true
 
 [[files]]
@@ -3447,15 +3391,15 @@ hash = "9296843532229bbcad3ff9a79a7bcc7198daf37716efd76bfc8b25f87b6f304d"
 
 [[files]]
 file = "scripts/compat_fixes.zs"
-hash = "9d4b35d13a4c88a0f9c432eb576ffeb8cef12bc736e4cab9929c10762df345f2"
+hash = "4bc06cf4d75e7a2c6fcdc01c4d7f3ddea906631b6500c78bb721c8b1236595d6"
+
+[[files]]
+file = "scripts/cyclic.zs"
+hash = "2a26b9ac667c281d02ad27ee03e8fff8a13846ff983f2cbcf5fca37465ede05a"
 
 [[files]]
 file = "scripts/extrautils2.zs"
 hash = "81e74a1ba7a3c62e985ebb5413097bba0ed11df065fb4b297fe9becd0de4fc58"
-
-[[files]]
-file = "scripts/futuremc.zs"
-hash = "28bf99ff5b967a44be5121ba9972934328097cb3667f8d8eb0fd5ba99218192c"
 
 [[files]]
 file = "scripts/ice_fire.zs"
@@ -3476,10 +3420,6 @@ hash = "d14d6c38b52cc897084329f12b369e5d80a143269c6f4039c604e79c706cab9a"
 [[files]]
 file = "scripts/openglider.zs"
 hash = "2d46ab77f61fc84f7a10fc9fcca2d99fba488992ac7fec164926697ffa397474"
-
-[[files]]
-file = "scripts/projectred.zs"
-hash = "88286c911b0e1a3aab264b31fd44a86dff2d057e64931b2011bb8e4c285ac3d7"
 
 [[files]]
 file = "scripts/quark.zs"

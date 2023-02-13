@@ -9,9 +9,7 @@ import crafttweaker.oredict.IOreDictEntry;
 // Carving.addVariation("amethystBlocks", <netherex:amethyst_block>);
 
 // remove redundant blocks from ore dict
-<ore:blockSapphire>.remove(<iceandfire:sapphire_block>, <projectred-exploration:stone:6>);
-<ore:blockPeridot>.remove(<projectred-exploration:stone:7>);
-<ore:blockRuby>.remove(<projectred-exploration:stone:5>);
+<ore:blockSapphire>.remove(<iceandfire:sapphire_block>);
 <ore:blockAmethyst>.remove(<netherex:amethyst_block>);
 
 // constantan
