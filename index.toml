@@ -2169,6 +2169,10 @@ file = "config/randomtweaks/randomtweaks.cfg"
 hash = "cd459a70abac96244168e97d6581a4a0c0ddb1545d7f41ae3138b04b84dc679a"
 
 [[files]]
+file = "config/rangedpumps.cfg"
+hash = "ae87c2c7aed78e51b11248c99e4200315d51d969ab1bf3f2325dd74e06838382"
+
+[[files]]
 file = "config/recipehandler.cfg"
 hash = "cd7490a3df6d1e451597ed3efce93af97e6596323b3cab7d353ebd10f3009d26"
 
