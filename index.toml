@@ -2712,11 +2712,6 @@ hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
 
 [[files]]
-file = "mods/extreme-cobble-generator.pw.toml"
-hash = "7f7df29c631999c80ed22077354cbc421439cd522c4079433122fbf314814a99"
-metafile = true
-
-[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "eafb0b5ea70aa40fd93e93331e0a4d59708b9a7502297a3ece67a3c83813f9a2"
 metafile = true
