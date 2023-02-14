@@ -1286,7 +1286,7 @@ hash = "900f12263f190072d460b2d35fc529ea94c5e1268248eb64730056bf09dd17f3"
 
 [[files]]
 file = "config/ftbbackups.cfg"
-hash = "cc4a2bdce9b6cba46b967b23b7172d4a89746c09e5280e7b32cb16de4a62754d"
+hash = "67f9b103e42c1e0e73dffd13e61e785a8a96a80d6a391b68a3ac83ed2b88033b"
 
 [[files]]
 file = "config/ftblib.cfg"
