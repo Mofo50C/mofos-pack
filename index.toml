@@ -2684,6 +2684,11 @@ hash = "a9a80751bce6b64e5500ccd806b28b44f14e9960cb2ab1b4f6eca8cf771a9c99"
 metafile = true
 
 [[files]]
+file = "mods/debark.pw.toml"
+hash = "82082f91a6c398a8a007c9cec2b21a10cb299e4d15c9ea4d59973309f8d35596"
+metafile = true
+
+[[files]]
 file = "mods/deep-mob-learning.pw.toml"
 hash = "5dab6d514f9b8fd83bee0e85049bcdc0df2591c4948823adda975d3e9a67ac20"
 metafile = true
