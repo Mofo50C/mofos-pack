@@ -2153,6 +2153,10 @@ file = "config/randompatches.cfg"
 hash = "e61c6ba238dbce4ff224d034f6100f4fac10cf966e6407b6d5696020c73b00da"
 
 [[files]]
+file = "config/randomthings.cfg"
+hash = "876f8ef9f1bd018384b00f780e1f01aedb4466b1e9550115eac45f641bd3cce6"
+
+[[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
 hash = "cd459a70abac96244168e97d6581a4a0c0ddb1545d7f41ae3138b04b84dc679a"
 
