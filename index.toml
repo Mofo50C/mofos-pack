@@ -2377,6 +2377,11 @@ file = "mods/YARCF-0.14(1.12.2).jar"
 hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a16f4f4dec18809a08f214522afdbee126f7f475285adf9e329f2bc54a53f5bc"
 metafile = true
@@ -3072,6 +3077,11 @@ hash = "408a04f11e5fe4450d5f2d5d52a9aa1cc309edb2eae7860bee1597bd9c36b01c"
 metafile = true
 
 [[files]]
+file = "mods/random-things.pw.toml"
+hash = "568fdad52f685a4b155371508db94667f9a198168cfd602d806409313d0276cb"
+metafile = true
+
+[[files]]
 file = "mods/randompatches-forge.pw.toml"
 hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
@@ -3159,6 +3169,11 @@ metafile = true
 [[files]]
 file = "mods/simple-sponge.pw.toml"
 hash = "17cea7e7cdd773e26d3dea03a96a8d4a330748a8b83124edec8b174f09d53fff"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "62814a10c80fd9da818a3586a4df9604614e176390eb45a53c1adfc25037afe3"
 metafile = true
 
 [[files]]
