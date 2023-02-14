@@ -2306,7 +2306,7 @@ hash = "6d0683019a45164235699a313c3edf81455a5b466de17e6c9afe7db7fb0a397c"
 
 [[files]]
 file = "config/tmel.cfg"
-hash = "b3209fc2ebce2bd71342fa7ab7dec2de900728b2af6cf4d0ada5ad3e393f24dd"
+hash = "c32626910d8be65e1a6a9304ea9770e1e58a49fb4ab95abac4b7b1c24f5626dd"
 
 [[files]]
 file = "config/toastcontrol.cfg"
