@@ -2253,6 +2253,10 @@ file = "config/storagedrawersextra.cfg"
 hash = "1c73a14da7cb2c69adbc7e247f3e1cd09591c5a30c1135e1463f3d3589c1bb6b"
 
 [[files]]
+file = "config/storagenetwork.cfg"
+hash = "f21f7ac798f44fb9bfbd197d795bc7628fa813a3821c138dfc35b4ffc438fd57"
+
+[[files]]
 file = "config/supersoundmuffler.cfg"
 hash = "7438fe1a3d13c4310e5a28fe7ff6bc28205531dedfeefee7ee6804357ceb0d8c"
 
