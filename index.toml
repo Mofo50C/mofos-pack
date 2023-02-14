@@ -3423,7 +3423,7 @@ hash = "9296843532229bbcad3ff9a79a7bcc7198daf37716efd76bfc8b25f87b6f304d"
 
 [[files]]
 file = "scripts/compat_fixes.zs"
-hash = "670b1a8366369c45ea7689c4ce0f525b0e57cdc530a3ba304de52a2e45d6e68f"
+hash = "9b3d1655e883eeccee0fec217bc3a5779401b1936be56ebd9c00dcde8f045650"
 
 [[files]]
 file = "scripts/cyclic.zs"
