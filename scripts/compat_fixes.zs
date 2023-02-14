@@ -28,6 +28,12 @@ Carving.addVariation("constantanBlocks", <immersiveengineering:storage:6>);
 //     }
 // }
 
+//charcoal
+
+recipes.remove(<mekanism:basicblock:3>)
+recipes.remove(<chisel:block_charcoal2:1>)
+recipes.remove(<actuallyadditions:block_misc:5>)
+
 
 // oak trapdoor compat with literally everything
 recipes.remove(<minecraft:trapdoor>);

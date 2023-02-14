@@ -136,7 +136,15 @@ var tome_full = <akashictome:tome>.withTag(
                     "akashictome:definedMod": "cyclicmagic"
                 }, 
                 Damage: 0 as short
-            }
+            },
+            actuallyadditions: {
+                id: "actuallyadditions:item_booklet", 
+                Count: 1 as byte, 
+                tag: {
+                    "akashictome:definedMod": "actuallyadditions"
+                }, 
+                Damage: 0 as short
+            },
         }
     }
 );

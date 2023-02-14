@@ -97,6 +97,10 @@ file = "config/Waystones.cfg"
 hash = "47deab3a0667e6ab5cb0650dcfa74d276b50bfbff00c5831123afc1ebfac2ea4"
 
 [[files]]
+file = "config/actuallyadditions.cfg"
+hash = "d2b8ba043e4d5952513cb95dca4ca59a3180b08169d82f61b4c5d3ebeef83ee5"
+
+[[files]]
 file = "config/aether-dimension/biomes.txt"
 hash = "44788236bff15c56c1735db90ffb909907b58c5eeb75865dc5ca4d5e10b39e33"
 
@@ -2114,7 +2118,7 @@ hash = "947a452055771f3c8550d3bea991b08785f455a0775482a785609e37f464e3fc"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "9c52121a3cff0e7d309bfedc478140493d6ea0d088f90338dee30cab23de0d48"
+hash = "d7854cf018e62ceba2d7aa61a8fa304e8a465fd01cf900ee6c5b0e6e65951580"
 
 [[files]]
 file = "config/railcraft/blocks.cfg"
@@ -2379,6 +2383,11 @@ hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
 [[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
+metafile = true
+
+[[files]]
+file = "mods/actually-baubles.pw.toml"
+hash = "8df645f1128ee834c25cf67045411cba8c4a8631d77ec93b231beea06fc1744a"
 metafile = true
 
 [[files]]
@@ -2874,6 +2883,11 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "21e1c7795d5c8cb8d95db171d42dda4fa3065e6bc1e59d6cb5c9b6e44d7008b5"
+metafile = true
+
+[[files]]
+file = "mods/lava-waders-bauble.pw.toml"
+hash = "4c4fd72983a881fd42cbad4ae898dffddc2b215caf122564bb1661c66c5ed21c"
 metafile = true
 
 [[files]]
@@ -3381,7 +3395,7 @@ hash = "3bd9e0855397dfd5a286a256ec6bf2937dc8fafbfaadb0774dc115b3069bd2e7"
 
 [[files]]
 file = "scripts/akashictome.zs"
-hash = "988dc67053ecc66558c011466ef9b76cd360296ee68f46fe33908082fc4a0f26"
+hash = "cbb001869316d695aeff57471e926f4ece81ae6cc879f38f4c158c6e27f6fc3d"
 
 [[files]]
 file = "scripts/backportedblocks.zs"
@@ -3401,7 +3415,7 @@ hash = "9296843532229bbcad3ff9a79a7bcc7198daf37716efd76bfc8b25f87b6f304d"
 
 [[files]]
 file = "scripts/compat_fixes.zs"
-hash = "4bc06cf4d75e7a2c6fcdc01c4d7f3ddea906631b6500c78bb721c8b1236595d6"
+hash = "670b1a8366369c45ea7689c4ce0f525b0e57cdc530a3ba304de52a2e45d6e68f"
 
 [[files]]
 file = "scripts/cyclic.zs"
