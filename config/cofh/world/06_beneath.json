@@ -1,12 +1,12 @@
 {
-    "dependencies": ["beneath", "mekanism", "bigreactors", "rftools", "backportedblocks"],
+    "dependencies": ["beneath", "mekanism", "bigreactors", "rftools", "backportedblocks", "actuallyadditions"],
     "populate": {
         "osmium": {
             "distribution": "uniform",
 			"generator": {
 				"block": "mekanism:oreblock",
 				"material": "backportedblocks:deepslate",
-				"cluster-size": 8
+				"cluster-size": 16
 			},
 			"cluster-count": 8,
 			"min-height": 5,
@@ -73,11 +73,11 @@
 					}
 				},
 				"material": "backportedblocks:deepslate",
-				"cluster-size": 8
+				"cluster-size": 16
 			},
 			"min-height": 5,
 			"max-height": 251,
-			"cluster-count": 8,
+			"cluster-count": 16,
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
@@ -86,43 +86,40 @@
 			},
 			"retrogen": true
 		},
-		"certus": {
-			"distribution": "uniform",
+		"black_quartz": {
+            "distribution": "uniform",
 			"generator": {
-				"block": [
-					{
-						"name": "appliedenergistics2:quartz_ore",
-						"weight": 80
-					},
-					{
-						"name": "appliedenergistics2:charged_quartz_ore",
-						"weight": 20
+				"block": {
+					"name": "actuallyadditions:block_misc",
+					"properties": {
+						"type": "ore_black_quartz"
 					}
-				],
+				},
 				"material": "backportedblocks:deepslate",
-				"cluster-size": 8
+				"cluster-size": 16
 			},
+			"cluster-count": 16,
 			"min-height": 5,
 			"max-height": 251,
-			"cluster-count": 8,
+			"retrogen": true,
+			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					10
+                    10
 				]
-			},
-			"retrogen": true
-		},
+			}
+        },
 		"dimshard": {
             "distribution": "uniform",
 			"generator": {
 				"block": "rftools:dimensional_shard_ore",
 				"material": "backportedblocks:deepslate",
-				"cluster-size": 6
+				"cluster-size": 16
 			},
 			"cluster-count": 16,
 			"min-height": 5,
-			"max-height": 255,
+			"max-height": 251,
 			"retrogen": true,
 			"biome": "all",
 			"dimension": {
