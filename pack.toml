@@ -1,6 +1,6 @@
 name = "Mofos Pack"
 author = "Mofo"
-version = "3.9.1"
+version = "3.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
