@@ -2799,6 +2799,11 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
+file = "mods/gas-conduits.pw.toml"
+hash = "20b5210431d38f14b4ca35a3e37ccadd275e843773d60085200825c308f2f330"
+metafile = true
+
+[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
 metafile = true
@@ -3091,6 +3096,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
+metafile = true
+
+[[files]]
+file = "mods/quantumstorage.pw.toml"
+hash = "d6b3f85f0143cca6771833a09b0d3bbb6de1644bca7bcf2f83f0cf85d1561afa"
 metafile = true
 
 [[files]]
