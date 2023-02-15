@@ -1,1 +1,0 @@
-recipes.remove(<quantumstorage:quantum_bag:*>);

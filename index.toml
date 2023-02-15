@@ -85,10 +85,6 @@ file = "config/OreDictInit.cfg"
 hash = "eeba715b3fc89303b8460f36f1bec754c7506eb90f30f35d5624431bc175ccef"
 
 [[files]]
-file = "config/QuantumStorage.cfg"
-hash = "24ce76c1ed71bcfb96d2ccd787e7bcc46756bb5cebdf40dffb7e694ff51169ad"
-
-[[files]]
 file = "config/SimpleSponge.cfg"
 hash = "22dfbb14447021dc7133eb077b14c3a1cfe3aeb8cd12a353d90f57ddcecd5303"
 
@@ -3103,11 +3099,6 @@ hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
 
 [[files]]
-file = "mods/quantumstorage.pw.toml"
-hash = "d6b3f85f0143cca6771833a09b0d3bbb6de1644bca7bcf2f83f0cf85d1561afa"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
@@ -3471,10 +3462,6 @@ hash = "d14d6c38b52cc897084329f12b369e5d80a143269c6f4039c604e79c706cab9a"
 [[files]]
 file = "scripts/openglider.zs"
 hash = "2d46ab77f61fc84f7a10fc9fcca2d99fba488992ac7fec164926697ffa397474"
-
-[[files]]
-file = "scripts/quantum_storage.zs"
-hash = "79abccce718cc4968eec4fa15388f23e5f4bdec7c06b0c65bc3594917770643a"
 
 [[files]]
 file = "scripts/quark.zs"
