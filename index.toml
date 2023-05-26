@@ -2401,6 +2401,18 @@ file = "local/ftbutilities/ranks.txt"
 hash = "c2dc6e6a211d4c8dd438527a02e832b786301a4ecdcbac88895019db18f2e76a"
 
 [[files]]
+file = "mods/LibraryEx-1.12.2-1.2.2.jar"
+hash = "f76cd42e30f962aa8115b6128c6bf54dd54ded35bcc2fd048f8071d1862cb33f"
+
+[[files]]
+file = "mods/NetherEx-1.12.2-2.2.5.jar"
+hash = "ab71d3f63d8905727c769ddfe8c4849d735a4d9feb502a9135ce27e16bca815e"
+
+[[files]]
+file = "mods/YARCF-0.14(1.12.2).jar"
+hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -2986,11 +2998,6 @@ hash = "3734d70704626c28a955744664944226e5d31b397b54967a12e0013cedaf6762"
 metafile = true
 
 [[files]]
-file = "mods/moddirector.pw.toml"
-hash = "3c141c343f324f7050936c795b4889226f464640f93273c787ea346cf8ba5f70"
-metafile = true
-
-[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
 metafile = true
@@ -3339,6 +3346,10 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
+
+[[files]]
+file = "mods/tmel-1.12.2-1.4.0.0.jar"
+hash = "badc34cd6ec72a5adf82921e591d2ce3d67593f89e5dbc5b5be1c4191144d2b3"
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
