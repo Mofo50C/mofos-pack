@@ -1,1 +1,1 @@
-Pack version: 3.12
+Pack version: 3.12.1
