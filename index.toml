@@ -2009,6 +2009,22 @@ file = "config/microblocks.cfg"
 hash = "2fb7bd6ae3d592927f258557ee24dcf382dfc6d72225f8d3093e757ceb847740"
 
 [[files]]
+file = "config/mod-director/libraryex.curse.json"
+hash = "b336b7d71254b70426e298c0086539bf212a3b4031a96a2051e7a96936f5b86e"
+
+[[files]]
+file = "config/mod-director/netherex.curse.json"
+hash = "8ee6f64b068257d3b94837d2d65587122828987131f2d525645f3e9d291d0979"
+
+[[files]]
+file = "config/mod-director/tmel.curse.json"
+hash = "51758152b568c6e674e4f2772f4a33b6de8db78c265a7a3677efc8e21110cded"
+
+[[files]]
+file = "config/mod-director/yarcf.curse.json"
+hash = "472bda6fae870e4dc883f0a4016d1cb732e827876331b7ac6a314b9adda98cc6"
+
+[[files]]
 file = "config/modnametooltip.cfg"
 hash = "b8d688a569e68664b2d3b65983ff3f3f7bc2d8e61f7c58c94e054d55428f6921"
 
@@ -2383,18 +2399,6 @@ hash = "10c212439ac422358b053ebaab8b8728623a0533ca944e6958007af40e947f22"
 [[files]]
 file = "local/ftbutilities/ranks.txt"
 hash = "c2dc6e6a211d4c8dd438527a02e832b786301a4ecdcbac88895019db18f2e76a"
-
-[[files]]
-file = "mods/LibraryEx-1.12.2-1.2.2.jar"
-hash = "f76cd42e30f962aa8115b6128c6bf54dd54ded35bcc2fd048f8071d1862cb33f"
-
-[[files]]
-file = "mods/NetherEx-1.12.2-2.2.5.jar"
-hash = "ab71d3f63d8905727c769ddfe8c4849d735a4d9feb502a9135ce27e16bca815e"
-
-[[files]]
-file = "mods/YARCF-0.14(1.12.2).jar"
-hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
@@ -2982,6 +2986,11 @@ hash = "3734d70704626c28a955744664944226e5d31b397b54967a12e0013cedaf6762"
 metafile = true
 
 [[files]]
+file = "mods/moddirector.pw.toml"
+hash = "3c141c343f324f7050936c795b4889226f464640f93273c787ea346cf8ba5f70"
+metafile = true
+
+[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
 metafile = true
@@ -3330,10 +3339,6 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
-
-[[files]]
-file = "mods/tmel-1.12.2-1.4.0.0.jar"
-hash = "badc34cd6ec72a5adf82921e591d2ce3d67593f89e5dbc5b5be1c4191144d2b3"
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
