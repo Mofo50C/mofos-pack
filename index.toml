@@ -1973,6 +1973,10 @@ file = "config/laser_drill_ores/thermalfoundation_ores.json"
 hash = "cafaed3a878a90c9c43a99f276950070b4bdf52b5613eb2f2345c5ff88eb2848"
 
 [[files]]
+file = "config/loliasm.cfg"
+hash = "40b870169c5f64c4def9d6952c66e71a30b14a1c403f72cd2781cf763a181ae5"
+
+[[files]]
 file = "config/lootcapacitortooltips.cfg"
 hash = "da176c303a56640448d369ee6ec0a2c009c98104fdb8732f7ea358e20af3bcc5"
 
