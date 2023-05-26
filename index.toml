@@ -93,6 +93,10 @@ file = "config/TinkerModules.cfg"
 hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
 
 [[files]]
+file = "config/UniversalTweaks.cfg"
+hash = "7b95dc05abd9b28595d8d0b9222d9daa9b6a5fc7478bdd2789311379b6f752d4"
+
+[[files]]
 file = "config/Waystones.cfg"
 hash = "47deab3a0667e6ab5cb0650dcfa74d276b50bfbff00c5831123afc1ebfac2ea4"
 
