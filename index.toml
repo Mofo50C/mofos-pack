@@ -2963,13 +2963,13 @@ hash = "c8d68af0d9678bee5fe990a01650c9cab55c73c20a582e90cee54e5499243aa0"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "23a8d6b69e0153452509b57edb45472a327acfdd87242d0ea52dcda0b1439e5f"
+file = "mods/mekanism-ce-generators.pw.toml"
+hash = "67e3c79b22d71592030c72d370eda62cec8224d593add4b1c4648dfc4eddfffd"
 metafile = true
 
 [[files]]
-file = "mods/mekanism.pw.toml"
-hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
+file = "mods/mekanism-ce.pw.toml"
+hash = "432e91a9ec4ff7a4f1274f23e8189f03f2c1c9656de317fc7f2f0881c6e68674"
 metafile = true
 
 [[files]]
