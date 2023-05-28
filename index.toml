@@ -2193,6 +2193,10 @@ file = "config/rangedpumps.cfg"
 hash = "ae87c2c7aed78e51b11248c99e4200315d51d969ab1bf3f2325dd74e06838382"
 
 [[files]]
+file = "config/reccomplex.cfg"
+hash = "0b57ef0c5979ad56253f565d915d7005f82fc040dba2beb2a4b3a99873048da5"
+
+[[files]]
 file = "config/recipehandler.cfg"
 hash = "cd7490a3df6d1e451597ed3efce93af97e6596323b3cab7d353ebd10f3009d26"
 
