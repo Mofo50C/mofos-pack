@@ -2570,11 +2570,6 @@ hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
 metafile = true
 
 [[files]]
-file = "mods/biome-bundle-o-plenty.pw.toml"
-hash = "7ca6d8ac15cd845b56fffb0f4ed6cad989b5c53699ac7913c89e02a477d0af68"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -3102,11 +3097,6 @@ metafile = true
 [[files]]
 file = "mods/open-glider.pw.toml"
 hash = "ef331ba58eb4d4c40c11b93348e4661fadac789f89d009831f8f9b56e018e905"
-metafile = true
-
-[[files]]
-file = "mods/open-terrain-generator.pw.toml"
-hash = "4342bea009d3d16c9abbb13cb112c03dfdc051c26c74656eed07f03263d321e7"
 metafile = true
 
 [[files]]
