@@ -2967,7 +2967,7 @@ metafile = true
 
 [[files]]
 file = "mods/lolasm.pw.toml"
-hash = "d396ef1087e9202f6f3fae81174039775d910bfd71fe3bf001c02e009ca3fc7d"
+hash = "c984eef2e410cb8075a65c405b8df013151db4c84bc190b135fb5c0040f67e78"
 metafile = true
 
 [[files]]
