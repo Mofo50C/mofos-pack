@@ -806,7 +806,7 @@ hash = "5f09060920894c3eda22a963e5790c8d79819f1a0a9b772f2168f5589484707e"
 
 [[files]]
 file = "config/cofh/world/05_nether.json"
-hash = "fb09f438987bf5fae72efeaede6b950b7f81c3f87f4364df23640970d346f2db"
+hash = "410e1b89653b1f18b3d138737ae09eb84a908124a679cc28b49ae5c3d0a8124b"
 
 [[files]]
 file = "config/cofh/world/06_beneath.json"
@@ -1302,7 +1302,7 @@ hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "6e9e0c19d02aa6adb56326c06f7feec7e1fdbafc63a4f9de5287d0b6fcfa67d1"
+hash = "6c251e403fc42fb4181e59059b135d19227b4e4260aaf32f43bcdfbb07128b19"
 
 [[files]]
 file = "config/harvestcraft.cfg"

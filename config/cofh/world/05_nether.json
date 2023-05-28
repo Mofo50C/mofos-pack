@@ -33,7 +33,8 @@
 					"netherex:gloomy_netherrack",
 					"netherex:fiery_netherrack",
 					"netherex:icey_netherrack",
-					"netherex:lively_netherrack"
+					"netherex:lively_netherrack",
+					"mysticalagriculture:soulstone"
 				],
 				"cluster-size": 12
 			},
