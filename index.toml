@@ -806,11 +806,11 @@ hash = "5f09060920894c3eda22a963e5790c8d79819f1a0a9b772f2168f5589484707e"
 
 [[files]]
 file = "config/cofh/world/05_nether.json"
-hash = "5a64c2a141c753e519e1a1caa20763521e5edfc387f65a56647971be45c40fc6"
+hash = "fb09f438987bf5fae72efeaede6b950b7f81c3f87f4364df23640970d346f2db"
 
 [[files]]
 file = "config/cofh/world/06_beneath.json"
-hash = "7d5a5278942dbba6a74fe3a23a56991f7d688943459fbfa9c3bf2df4d76c83bb"
+hash = "9100a088374a9ec94116ba9b4848fa1ac97c210d9fc890469bab5745c33ede7b"
 
 [[files]]
 file = "config/cofh/world/07_deepdark.json"

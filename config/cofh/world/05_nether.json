@@ -1,6 +1,53 @@
 {
-	"dependencies": ["mysticalagriculture", "backportedblocks", "biomesoplenty", "netherex"],
+	"dependencies": ["mysticalagriculture", "backportedblocks", "biomesoplenty", "netherex", "futuremc"],
 	"populate": {
+		"soulsoil": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+					"type": "cluster",
+					"block": "futuremc:soul_soil",
+					"material": "minecraft:soul_sand",
+                    "cluster-size": 100
+			},
+			"retrogen": "true",
+			"cluster-count": 16,
+			"min-height": 16,
+            "max-height": 124,
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"ancientdebris": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "futuremc:ancient_debris"
+				},
+				"material": ["netherrack", 
+                    "backportedblocks:blackstone",
+					"netherex:gloomy_netherrack",
+					"netherex:fiery_netherrack",
+					"netherex:icey_netherrack",
+					"netherex:lively_netherrack"
+				],
+				"cluster-size": 12
+			},
+			"cluster-count": 3,
+			"min-height": 4,
+			"max-height": 16,
+			"retrogen": "true",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
         "soulstone": {
 			"enabled": "true",
 			"distribution": "uniform",

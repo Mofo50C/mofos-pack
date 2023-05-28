@@ -1,5 +1,5 @@
 {
-    "dependencies": ["beneath", "mekanism", "bigreactors", "rftools", "backportedblocks", "actuallyadditions"],
+    "dependencies": ["beneath", "mekanism", "bigreactors", "rftools", "backportedblocks", "actuallyadditions", "subaquatic"],
     "populate": {
         "osmium": {
             "distribution": "uniform",
@@ -155,7 +155,7 @@
 			"generator": {
 				"type": "lake",
 				"block": "thermalfoundation:fluid_cryotheum",
-				"outline-block": "minecraft:packed_ice",
+				"outline-block": "subaquatic:blue_ice",
 				"material": "backportedblocks:deepslate",
 				"use-material": true
 			},
