@@ -1301,6 +1301,10 @@ file = "config/ftbutilities.cfg"
 hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
+file = "config/futuremc/futuremc.cfg"
+hash = "6e9e0c19d02aa6adb56326c06f7feec7e1fdbafc63a4f9de5287d0b6fcfa67d1"
+
+[[files]]
 file = "config/harvestcraft.cfg"
 hash = "5c4158814a3ba3fc8b898fa1e367d7c9c35aef8e0992dc8aa3552636705bf51d"
 
@@ -2142,7 +2146,7 @@ hash = "947a452055771f3c8550d3bea991b08785f455a0775482a785609e37f464e3fc"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "d7854cf018e62ceba2d7aa61a8fa304e8a465fd01cf900ee6c5b0e6e65951580"
+hash = "01a50f753779375ec1e7ff7ae62a163bdfdc47f2898f5b71ff903c29ca7e7c83"
 
 [[files]]
 file = "config/railcraft/blocks.cfg"
@@ -2279,6 +2283,10 @@ hash = "1c73a14da7cb2c69adbc7e247f3e1cd09591c5a30c1135e1463f3d3589c1bb6b"
 [[files]]
 file = "config/storagenetwork.cfg"
 hash = "f21f7ac798f44fb9bfbd197d795bc7628fa813a3821c138dfc35b4ffc438fd57"
+
+[[files]]
+file = "config/subaquatic.cfg"
+hash = "3e0dd3bb36563f46f8fed42292ab99db179450f5f49996683dcafc7b5a3ad29c"
 
 [[files]]
 file = "config/supersoundmuffler.cfg"
@@ -3496,6 +3504,10 @@ hash = "2a26b9ac667c281d02ad27ee03e8fff8a13846ff983f2cbcf5fca37465ede05a"
 [[files]]
 file = "scripts/extrautils2.zs"
 hash = "81e74a1ba7a3c62e985ebb5413097bba0ed11df065fb4b297fe9becd0de4fc58"
+
+[[files]]
+file = "scripts/futuremc.zs"
+hash = "14c7e6d2345b2aa86814eaa9fa4b1a18e22e499530f17734818f5f79eeff06b2"
 
 [[files]]
 file = "scripts/ice_fire.zs"
