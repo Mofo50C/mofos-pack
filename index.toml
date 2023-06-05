@@ -94,7 +94,7 @@ hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
 
 [[files]]
 file = "config/UniversalTweaks.cfg"
-hash = "7b95dc05abd9b28595d8d0b9222d9daa9b6a5fc7478bdd2789311379b6f752d4"
+hash = "71f431dfa5ad78c479bedcc985629bb2fda0f7c1ceaba38bfd8fc8edd0eba4f3"
 
 [[files]]
 file = "config/Waystones.cfg"
@@ -806,7 +806,7 @@ hash = "5f09060920894c3eda22a963e5790c8d79819f1a0a9b772f2168f5589484707e"
 
 [[files]]
 file = "config/cofh/world/05_nether.json"
-hash = "de3d71d660b98751cc92866b1dfdf3a4c27820003616b23429d09aadc134bfeb"
+hash = "c26d9b318a3699312a206847a90065e0825f06b6cdcebcd66aee6e7d78e7cce5"
 
 [[files]]
 file = "config/cofh/world/06_beneath.json"
@@ -1302,7 +1302,7 @@ hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "6c251e403fc42fb4181e59059b135d19227b4e4260aaf32f43bcdfbb07128b19"
+hash = "0622cd61ac1ce8271de4b483340cf506ccbe3d971f6fe122a7333856541ea8e1"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -2146,7 +2146,7 @@ hash = "947a452055771f3c8550d3bea991b08785f455a0775482a785609e37f464e3fc"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "01a50f753779375ec1e7ff7ae62a163bdfdc47f2898f5b71ff903c29ca7e7c83"
+hash = "3df594896ca39c0ced55833e5726c0adde3b5e07ac59c3392f6740a152c9041d"
 
 [[files]]
 file = "config/railcraft/blocks.cfg"
@@ -2186,7 +2186,7 @@ hash = "876f8ef9f1bd018384b00f780e1f01aedb4466b1e9550115eac45f641bd3cce6"
 
 [[files]]
 file = "config/randomtweaks/randomtweaks.cfg"
-hash = "cd459a70abac96244168e97d6581a4a0c0ddb1545d7f41ae3138b04b84dc679a"
+hash = "c967eae0510a2b37db4d2034f78381274a6e5e4bf540db7dfd00607de9794b30"
 
 [[files]]
 file = "config/rangedpumps.cfg"
@@ -3167,6 +3167,11 @@ metafile = true
 [[files]]
 file = "mods/randompatches-forge.pw.toml"
 hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
+metafile = true
+
+[[files]]
+file = "mods/randomtweaks.pw.toml"
+hash = "bff691af416c451674e300f0bdaf89b1d7450aa7ad275421ce7f50fd65463438"
 metafile = true
 
 [[files]]
