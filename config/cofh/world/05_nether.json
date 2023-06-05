@@ -28,7 +28,8 @@
 				"block": {
 					"name": "futuremc:ancient_debris"
 				},
-				"material": ["netherrack", 
+				"material": [
+					"minecraft:netherrack", 
                     "backportedblocks:blackstone",
 					"netherex:gloomy_netherrack",
 					"netherex:fiery_netherrack",
@@ -38,9 +39,9 @@
 				],
 				"cluster-size": 12
 			},
-			"cluster-count": 3,
+			"cluster-count": 9,
 			"min-height": 4,
-			"max-height": 16,
+			"max-height": 32,
 			"retrogen": "true",
 			"dimension": {
 				"restriction": "whitelist",

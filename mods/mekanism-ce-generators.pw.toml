@@ -1,13 +1,13 @@
 name = "Mekanism Community Edition: GENERATORS"
-filename = "Mekanism-Community-Edition-1.12.2-9.12.6-Generators.jar"
+filename = "Mekanism-Community-Edition-1.12.2-9.12.7-Generators.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bbd9ca661a167f2fbef3dc5ea2d9ffe089f0c4e5"
+hash = "12691455d38b756fac0731557f6a8d416467572e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4552556
+file-id = 4557905
 project-id = 813408
