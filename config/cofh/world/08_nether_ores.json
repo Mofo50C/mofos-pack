@@ -76,51 +76,6 @@
 				]
 			}
 		},
-        "inferno_deltas": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"type": "stalagmite",
-				"block": [
-					{
-						"name": "backportedblocks:basalt",
-						"weight": 65
-					},
-					{
-						"name":"backportedblocks:blackstone",
-						"weight": 30
-					},
-					{
-						"name": "magma",
-						"weight": 5
-					}
-				],
-				"min-height": 32,
-				"height-variance": 16,
-				"fat": "true",
-				"smooth": "true",
-				"alt-sinc": "true",
-				"gen-size": 4,
-				"size-variance": 4,
-				"material": ["biomesoplenty:ash_block", "netherrack"]
-			},
-			"retrogen": "true",
-			"cluster-count": 48,
-			"min-height": 4,
-			"max-height": 123,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					"biomesoplenty:phantasmagoric_inferno"
-				]
-			},
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					-1
-				]
-			}
-		},
 		"blackstone_spikes": {
 			"enabled": "false",
 			"distribution": "uniform",

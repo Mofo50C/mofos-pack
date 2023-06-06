@@ -805,16 +805,20 @@ file = "config/cofh/world/04_overworld.json"
 hash = "5f09060920894c3eda22a963e5790c8d79819f1a0a9b772f2168f5589484707e"
 
 [[files]]
-file = "config/cofh/world/05_nether.json"
-hash = "c26d9b318a3699312a206847a90065e0825f06b6cdcebcd66aee6e7d78e7cce5"
+file = "config/cofh/world/05_nether_biomes.json"
+hash = "76a391dadc9f3d8e07f992d8a1301a735fda423d59adc1c459d93dd256d22544"
 
 [[files]]
 file = "config/cofh/world/06_beneath.json"
-hash = "9100a088374a9ec94116ba9b4848fa1ac97c210d9fc890469bab5745c33ede7b"
+hash = "6d663d8bbd3a1518e0746afd8e7b2f9bdfba41a62a53d79a72892a80724beb3d"
 
 [[files]]
 file = "config/cofh/world/07_deepdark.json"
 hash = "8399fc6c509fdff6dcfe65f86ab316a7a95cfc3e8f476faa46d7953360122fba"
+
+[[files]]
+file = "config/cofh/world/08_nether_ores.json"
+hash = "004b7e501484b4c8646ba42dcfaa6b35e4962f43a8740bd67134255aaa75b291"
 
 [[files]]
 file = "config/cofh/world/config.cfg"
@@ -1302,7 +1306,7 @@ hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "0622cd61ac1ce8271de4b483340cf506ccbe3d971f6fe122a7333856541ea8e1"
+hash = "c2a7e0653adeb323e0090d4d8858209a02f54e1cd20d6b6270d058913c023d6f"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -2485,11 +2489,6 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
-file = "mods/aqua-acrobatics.pw.toml"
-hash = "a5d7418332ef45b754b8a606efe929b57fbac17ac1d1db6eb6b6f1ebe8647aa5"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "66e34a1e0bfd3a9ee39b1f58b1af494b843fa22979a28207f397e4710547b9d2"
 metafile = true
@@ -3325,11 +3324,6 @@ hash = "c7cc5deb2c40eab1824622a0d48a15e2aab18d967a935c8f4c0c5fc5fe80fa86"
 metafile = true
 
 [[files]]
-file = "mods/subaquatic.pw.toml"
-hash = "3e0d20b2ecf3ef22cab138580758f9edaecfaeea4e37d84742536210d59c1b1f"
-metafile = true
-
-[[files]]
 file = "mods/super-sound-muffler-revived.pw.toml"
 hash = "5658fb3fc745ba472457092404524f95fecfbf4cd3e09ddb7d1990d9d8aa7480"
 metafile = true
@@ -3506,7 +3500,7 @@ hash = "81e74a1ba7a3c62e985ebb5413097bba0ed11df065fb4b297fe9becd0de4fc58"
 
 [[files]]
 file = "scripts/futuremc.zs"
-hash = "14c7e6d2345b2aa86814eaa9fa4b1a18e22e499530f17734818f5f79eeff06b2"
+hash = "52b9f8b1acedd3f900df7f75cf55c66138ebce79abc0366dda9423fc6f075f65"
 
 [[files]]
 file = "scripts/ice_fire.zs"
