@@ -2509,11 +2509,6 @@ hash = "8271e3d47842a5318c7b080a1cc155fc32e3c38bf917cab6a76baef8c15f81c0"
 metafile = true
 
 [[files]]
-file = "mods/assetmover.pw.toml"
-hash = "524023c2f9e70e261fe357d03c56936e0207b723cda6191ff2e1a7b53e1836fe"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -2801,11 +2796,6 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
-metafile = true
-
-[[files]]
-file = "mods/fluidlogged-api.pw.toml"
-hash = "dd1a7e9b2e6da52376ef64a54d346bca37f594fee902218f8d835a8c47d2e175"
 metafile = true
 
 [[files]]
