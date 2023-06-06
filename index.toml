@@ -3490,7 +3490,7 @@ hash = "81e74a1ba7a3c62e985ebb5413097bba0ed11df065fb4b297fe9becd0de4fc58"
 
 [[files]]
 file = "scripts/futuremc.zs"
-hash = "52b9f8b1acedd3f900df7f75cf55c66138ebce79abc0366dda9423fc6f075f65"
+hash = "50cbaeaee45256f472fd2779213e343ee3044ef0ed743a415d365bbbe58054fc"
 
 [[files]]
 file = "scripts/ice_fire.zs"
