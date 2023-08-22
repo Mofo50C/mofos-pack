@@ -1,13 +1,13 @@
 name = "Simple Sponge"
-filename = "SimpleSponge-1.12.2-3.7.jar"
+filename = "SimpleSponge-1.12.2-3.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9ed63fb136cb8d7113a930d5101f1b742fe06750"
+hash = "8de87f963d35df3a382e649468d103ba7ad26e1d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3168903
+file-id = 4574333
 project-id = 269141

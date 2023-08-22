@@ -1,0 +1,13 @@
+name = "PipeBlocker"
+filename = "pipeblocker-forge17_112-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "568fc2591373cd53c8b493437eda8556901dfb52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4675121
+project-id = 896289

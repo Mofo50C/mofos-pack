@@ -1,7 +1,11 @@
 {
-	"dependencies": ["backportedblocks", "biomesoplenty", "netherex"],
+	"dependencies": [
+		"backportedblocks",
+		"biomesoplenty",
+		"netherex"
+	],
 	"populate": {
-        "inferno_deltas": {
+		"inferno_deltas": {
 			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
@@ -12,7 +16,7 @@
 						"weight": 65
 					},
 					{
-						"name":"backportedblocks:blackstone",
+						"name": "backportedblocks:blackstone",
 						"weight": 30
 					},
 					{
@@ -27,7 +31,10 @@
 				"alt-sinc": "true",
 				"gen-size": 4,
 				"size-variance": 4,
-				"material": ["biomesoplenty:ash_block", "netherrack"]
+				"material": [
+					"biomesoplenty:ash_block",
+					"netherrack"
+				]
 			},
 			"retrogen": "true",
 			"cluster-count": 48,
@@ -46,14 +53,19 @@
 				]
 			}
 		},
-        "inferno_deltas_2": {
+		"inferno_deltas_2": {
 			"enabled": "false",
 			"distribution": "cave",
 			"ground-level": 255,
 			"generator": {
 				"type": "stalagmite",
 				"block": "backportedblocks:basalt",
-				"gen-body": ["air", "backportedblocks:basalt", "lava", "netherrack"],
+				"gen-body": [
+					"air",
+					"backportedblocks:basalt",
+					"lava",
+					"netherrack"
+				],
 				"min-height": 32,
 				"height-variance": 8,
 				"fat": "true",
@@ -61,7 +73,10 @@
 				"alt-sinc": "false",
 				"gen-size": 0,
 				"size-variance": 2,
-				"material": ["biomesoplenty:ash_block", "netherrack"]
+				"material": [
+					"biomesoplenty:ash_block",
+					"netherrack"
+				]
 			},
 			"retrogen": "true",
 			"cluster-count": 100,
@@ -78,15 +93,18 @@
 				]
 			}
 		},
-        "basalt_deltas": {
-			"enabled": "true",
+		"basalt_deltas": {
+			"enabled": "false",
 			"distribution": "cave",
 			"ground-level": 255,
 			"cluster-count": 100,
 			"generator": [
 				{
 					"type": "decoration",
-					"material": ["air", "biomesoplenty:blue_fire"],
+					"material": [
+						"air",
+						"biomesoplenty:blue_fire"
+					],
 					"weight": 50,
 					"block": "backportedblocks:basalt",
 					"cluster-size": 100,
@@ -103,7 +121,10 @@
 				},
 				{
 					"type": "decoration",
-					"material": ["air", "biomesoplenty:blue_fire"],
+					"material": [
+						"air",
+						"biomesoplenty:blue_fire"
+					],
 					"weight": 50,
 					"block": "backportedblocks:basalt",
 					"cluster-size": 100,
