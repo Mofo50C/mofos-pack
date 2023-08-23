@@ -5,39 +5,31 @@
 		"netherex"
 	],
 	"populate": {
-		"inferno_deltas": {
-			"enabled": "false",
+		"basalt_sediments": {
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"type": "stalagmite",
 				"block": [
-					{
-						"name": "backportedblocks:basalt",
-						"weight": 65
-					},
-					{
-						"name": "backportedblocks:blackstone",
-						"weight": 30
-					},
-					{
-						"name": "magma",
-						"weight": 5
-					}
+					"backportedblocks:basalt"
 				],
-				"min-height": 32,
-				"height-variance": 16,
+				"gen-body": [
+					"air",
+					"biomesoplenty:ash_block"
+				],
+				"min-height": 8,
+				"height-variance": 0,
 				"fat": "true",
-				"smooth": "true",
-				"alt-sinc": "true",
+				"smooth": "false",
+				"alt-sinc": "false",
 				"gen-size": 4,
 				"size-variance": 4,
 				"material": [
-					"biomesoplenty:ash_block",
-					"netherrack"
+					"biomesoplenty:ash_block"
 				]
 			},
 			"retrogen": "true",
-			"cluster-count": 48,
+			"cluster-count": 16,
 			"min-height": 4,
 			"max-height": 123,
 			"biome": {
@@ -53,98 +45,27 @@
 				]
 			}
 		},
-		"inferno_deltas_2": {
-			"enabled": "false",
-			"distribution": "cave",
-			"ground-level": 255,
+		"blackstone_veins": {
+			"enabled": "true",
+			"distribution": "uniform",
 			"generator": {
-				"type": "stalagmite",
-				"block": "backportedblocks:basalt",
-				"gen-body": [
-					"air",
-					"backportedblocks:basalt",
-					"lava",
-					"netherrack"
+				"type": "large-vein",
+				"block": [
+					"backportedblocks:blackstone"
 				],
-				"min-height": 32,
-				"height-variance": 8,
-				"fat": "true",
-				"smooth": "false",
-				"alt-sinc": "false",
-				"gen-size": 0,
-				"size-variance": 2,
+				"cluster-size": 48,
 				"material": [
-					"biomesoplenty:ash_block",
-					"netherrack"
+					"minecraft:netherrack"
 				]
 			},
 			"retrogen": "true",
-			"cluster-count": 100,
+			"cluster-count": 16,
+			"min-height": 5,
+			"max-height": 250,
 			"biome": {
 				"restriction": "whitelist",
 				"value": [
-					"biomesoplenty:phantasmagoric_inferno"
-				]
-			},
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					-1
-				]
-			}
-		},
-		"basalt_deltas": {
-			"enabled": "false",
-			"distribution": "cave",
-			"ground-level": 255,
-			"cluster-count": 100,
-			"generator": [
-				{
-					"type": "decoration",
-					"material": [
-						"air",
-						"biomesoplenty:blue_fire"
-					],
-					"weight": 50,
-					"block": "backportedblocks:basalt",
-					"cluster-size": 100,
-					"surface": "biomesoplenty:ash_block",
-					"see-sky": "false",
-					"check-stay": "false",
-					"stack-height": {
-						"min": 32,
-						"max": 36
-					},
-					"y-variance": 0,
-					"x-variance": 8,
-					"z-variance": 8
-				},
-				{
-					"type": "decoration",
-					"material": [
-						"air",
-						"biomesoplenty:blue_fire"
-					],
-					"weight": 50,
-					"block": "backportedblocks:basalt",
-					"cluster-size": 100,
-					"surface": "biomesoplenty:ash_block",
-					"see-sky": "false",
-					"check-stay": "false",
-					"stack-height": {
-						"min": 22,
-						"max": 26
-					},
-					"y-variance": 0,
-					"x-variance": 8,
-					"z-variance": 8
-				}
-			],
-			"retrogen": "true",
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					"biomesoplenty:phantasmagoric_inferno"
+					"minecraft:hell"
 				]
 			},
 			"dimension": {

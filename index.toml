@@ -242,6 +242,10 @@ hash = "72cd0dcc339927d4901d1163e3fd6eb6f14f15d713760dfd81148b9a5d806208"
 
 [[files]]
 file = "config/biomesoplenty/biome_ids.json"
+hash = "15de987ff7aac71771f1e61ba139446b892f86219f64258e7c683727cd3b4e72"
+
+[[files]]
+file = "config/biomesoplenty/biome_ids_bak.json"
 hash = "661c59b8dc2bf2c4699c8afb1c923cae15c95e71149ca63747914ba682bddfc6"
 
 [[files]]
@@ -806,7 +810,7 @@ hash = "5f09060920894c3eda22a963e5790c8d79819f1a0a9b772f2168f5589484707e"
 
 [[files]]
 file = "config/cofh/world/05_nether_biomes.json"
-hash = "34b0de896dc79f670bb73b962f67cc3d1cae0f171554cf1ac727207e5f913c3f"
+hash = "515694d6833c5264ce6359058a5067e9d8b12860aad6a5ad60dd91f7763fe6dc"
 
 [[files]]
 file = "config/cofh/world/06_beneath.json"
@@ -2291,10 +2295,6 @@ hash = "1c73a14da7cb2c69adbc7e247f3e1cd09591c5a30c1135e1463f3d3589c1bb6b"
 [[files]]
 file = "config/storagenetwork.cfg"
 hash = "f21f7ac798f44fb9bfbd197d795bc7628fa813a3821c138dfc35b4ffc438fd57"
-
-[[files]]
-file = "config/subaquatic.cfg"
-hash = "3e0dd3bb36563f46f8fed42292ab99db179450f5f49996683dcafc7b5a3ad29c"
 
 [[files]]
 file = "config/supersoundmuffler.cfg"
