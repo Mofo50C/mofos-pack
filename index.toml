@@ -1997,6 +1997,26 @@ file = "config/mekanism/BoxBlacklist.txt"
 hash = "663e0efd336f0fa1ca1bd88355c64d4f293a8cb44ee3ce8fa485ef471a38844f"
 
 [[files]]
+file = "config/mekanism/Mekanism.cfg"
+hash = "d6924e77f36f849cf5a07114ee853e19a73cc52b16d7baf3734b380a0bdc7efa"
+
+[[files]]
+file = "config/mekanism/MekanismCE.cfg"
+hash = "b87b0c0da5f0056c389a8c95e2edac9904262c1ea0edcee98700c58ede83e144"
+
+[[files]]
+file = "config/mekanism/MekanismCardboardBoxBlacklist"
+hash = "663e0efd336f0fa1ca1bd88355c64d4f293a8cb44ee3ce8fa485ef471a38844f"
+
+[[files]]
+file = "config/mekanism/MekanismGenerators.cfg"
+hash = "eec6ce835ca6f6adf7000123dc1743fadf2d577509b04c5d6b3657658c017069"
+
+[[files]]
+file = "config/mekanism/MekanismTools.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/mod-director/tmel.curse.json"
 hash = "51758152b568c6e674e4f2772f4a33b6de8db78c265a7a3677efc8e21110cded"
 
