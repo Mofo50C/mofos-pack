@@ -2441,6 +2441,11 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
+file = "mods/aqua-acrobatics.pw.toml"
+hash = "a5d7418332ef45b754b8a606efe929b57fbac17ac1d1db6eb6b6f1ebe8647aa5"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "66e34a1e0bfd3a9ee39b1f58b1af494b843fa22979a28207f397e4710547b9d2"
 metafile = true
