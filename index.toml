@@ -25,6 +25,10 @@ file = "config/DankNull.cfg"
 hash = "1d6eff33f04cbb56efc38ed754de90199ce3afa5ae7cd202a57a045f2b0c1860"
 
 [[files]]
+file = "config/Elenai Dodge.cfg"
+hash = "09f55fef63d15227a8db713538b505940b129fb142c325e47b6fc86ba1086132"
+
+[[files]]
 file = "config/Extreme Reactors/Extreme Reactors.cfg"
 hash = "abaab9f77aa35212e3838c8051db6f5aca3585e1dd811e39082576a8a4e11b36"
 
@@ -163,6 +167,10 @@ hash = "1feb89acc035303faf252c2ddd48d4820087b6dad4dc651cdac412349ec37113"
 [[files]]
 file = "config/appleskin.cfg"
 hash = "3db18929798bc16d0af30df80c2e5753a9622c8232858806cbe500a8c5e25bea"
+
+[[files]]
+file = "config/aquaacrobatics.cfg"
+hash = "aeb304c83bb93ba0ee1541ee64c49bcee5b29094fd3725c3c1bf3fd26f6b28c3"
 
 [[files]]
 file = "config/aquaculture.cfg"
@@ -854,7 +862,7 @@ hash = "e5ca805674dda16bd3983d96d33e32327dd1c66b200da92b787a33de1e7ba1e8"
 
 [[files]]
 file = "config/cyclicmagic.cfg"
-hash = "6ed49703238e0109e4729536202ca01a3d592e7d4bd44c1a66aa7d012d92583c"
+hash = "288f7285ee40430f20c0aec18ea0746693d8e23ea18bf919ce6afa14cd74c9c6"
 
 [[files]]
 file = "config/darkutils.cfg"
@@ -1290,7 +1298,7 @@ hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "0cd7d0a54bb85762bb51c1f1b067a0ff58151f23d15fafd06a67b706ecf2a28d"
+hash = "b3baf8c4d9de4cd60a004c05660c3d8ad064740f6e300ffb0812f2c0a4f62df4"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -2277,6 +2285,10 @@ file = "config/storagenetwork.cfg"
 hash = "f21f7ac798f44fb9bfbd197d795bc7628fa813a3821c138dfc35b4ffc438fd57"
 
 [[files]]
+file = "config/subaquatic.cfg"
+hash = "c995c5d0b38ba249c57e826cc4ceb5024b9a4e8c327409e5d8bcb123aeeda646"
+
+[[files]]
 file = "config/supersoundmuffler.cfg"
 hash = "7438fe1a3d13c4310e5a28fe7ff6bc28205531dedfeefee7ee6804357ceb0d8c"
 
@@ -2466,13 +2478,18 @@ hash = "8271e3d47842a5318c7b080a1cc155fc32e3c38bf917cab6a76baef8c15f81c0"
 metafile = true
 
 [[files]]
+file = "mods/assetmover.pw.toml"
+hash = "524023c2f9e70e261fe357d03c56936e0207b723cda6191ff2e1a7b53e1836fe"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
 file = "mods/backported-caves-cliffs-blocks.pw.toml"
-hash = "aead9228000cb65ac9b2b3b0826c208cec4149985fe8569b583e5bde0ded71ac"
+hash = "0ceb656210b2889b672227ac68aca61a20ccaab822e94ea0c532cc310ab987ef"
 metafile = true
 
 [[files]]
@@ -2657,7 +2674,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "b095df04d8f85baabc6e166ce908b21ab26b305576fd2037a3e87ec5a3759653"
+hash = "5ebc57447223c43ee06453cc1f8affcd3745028080ed08869a1f7d5a1fd64e72"
 metafile = true
 
 [[files]]
@@ -2706,6 +2723,16 @@ hash = "7aa641ac8c4f980b5194b933f98b66a980f06211d876bc0bf0b69d4579e077af"
 metafile = true
 
 [[files]]
+file = "mods/elenai-dodge.pw.toml"
+hash = "66500d872729e5aae693c072d862f58e98c9139188fb013632b4bcd24e2b3b55"
+metafile = true
+
+[[files]]
+file = "mods/emerging-technology-hydroponics.pw.toml"
+hash = "a7b42f8833f018b4d1c2ea91eef9a809bcca21e22551e7a695a9f878825ba427"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "492ba677350d89636b19d9f7c506ed3279f8e535c05101b16145601d5ee76f27"
 metafile = true
@@ -2716,8 +2743,8 @@ hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
 metafile = true
 
 [[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "bf089669a08776c6c3019cc2ed786ee1583fcb297784427b21cff7f9564d3c92"
+file = "mods/ender-storage-1-12-continuation.pw.toml"
+hash = "b50f8496a764581d3d132852fa4db2cdc55d5c3dd56c8988dc501be7274bfabf"
 metafile = true
 
 [[files]]
@@ -2766,6 +2793,11 @@ hash = "a5df4fa8c2520535d2bc0d396b063b94191f59bef2f0919c14b0c7f8adbd65c5"
 metafile = true
 
 [[files]]
+file = "mods/fluidlogged-api.pw.toml"
+hash = "ebf4b7332651a3c787a96b3d16e33dfd6b0ad3b5fc1df4eb2182ad7625ddf717"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
 metafile = true
@@ -2778,6 +2810,11 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+metafile = true
+
+[[files]]
+file = "mods/friendly-chests.pw.toml"
+hash = "60bfc06a3407c18fe036f94ea115804ff99017e3c069ac8e6e7bbaf1e7d01667"
 metafile = true
 
 [[files]]
@@ -2817,7 +2854,7 @@ metafile = true
 
 [[files]]
 file = "mods/hesperus.pw.toml"
-hash = "16fa3bb2895794c4ce1f4dfd815c8e77607dc6c5d9cb7e1f3f186e077f1f6193"
+hash = "ffb910f20ca70c086226d815c602ed0e8c1ab7904cc0f82a9537ae43b83cbc8a"
 metafile = true
 
 [[files]]
@@ -2828,6 +2865,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-intelligence.pw.toml"
+hash = "833956aab26a0fdde90c4ced2ef929c7c6cf2053cccd56b0a380f36b746a8fab"
 metafile = true
 
 [[files]]
@@ -3291,6 +3333,11 @@ hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
 metafile = true
 
 [[files]]
+file = "mods/subaquatic.pw.toml"
+hash = "524433a76fa778a3e2cc661f825386d47cd5c9ce9f3e56e4efd82f8c8302ebfb"
+metafile = true
+
+[[files]]
 file = "mods/super-sound-muffler-revived.pw.toml"
 hash = "5658fb3fc745ba472457092404524f95fecfbf4cd3e09ddb7d1990d9d8aa7480"
 metafile = true
@@ -3455,7 +3502,7 @@ hash = "cbb001869316d695aeff57471e926f4ece81ae6cc879f38f4c158c6e27f6fc3d"
 
 [[files]]
 file = "scripts/backportedblocks.zs"
-hash = "581559350c03976f6a71f08c3f01c651271ec4901787b622aebf0def9bbd6443"
+hash = "f66341530bbed17d876e57142bc36926684185c48e332fb2c906015b1b832f16"
 
 [[files]]
 file = "scripts/beneath.zs"
@@ -3483,7 +3530,7 @@ hash = "81e74a1ba7a3c62e985ebb5413097bba0ed11df065fb4b297fe9becd0de4fc58"
 
 [[files]]
 file = "scripts/futuremc.zs"
-hash = "50cbaeaee45256f472fd2779213e343ee3044ef0ed743a415d365bbbe58054fc"
+hash = "6d6f9f52f736c33f5af79312996ade8b67aae3542581154d11673893864c625f"
 
 [[files]]
 file = "scripts/ice_fire.zs"

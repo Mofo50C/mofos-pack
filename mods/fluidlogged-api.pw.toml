@@ -1,0 +1,13 @@
+name = "Fluidlogged API"
+filename = "Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+hash-format = "sha1"
+hash = "dccbe188518534bd73bd2ecc234c6e31224f1ab9"
+
+[update]
+[update.modrinth]
+mod-id = "vVXPbodS"
+version = "y52dPt4Z"

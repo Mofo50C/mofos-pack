@@ -1,13 +1,13 @@
 name = "Backported Blocks"
-filename = "backportedblocks-1.2.jar"
+filename = "backportedblocks-1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2f814be122e04fb1816ed7ce10170d3ce96b7be8"
+hash = "4f8663bfe6010deb83f5858a2ee4f99d0add385b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3585198
+file-id = 4725049
 project-id = 434473

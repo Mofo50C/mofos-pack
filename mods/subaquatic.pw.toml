@@ -1,0 +1,13 @@
+name = "Subaquatic"
+filename = "Subaquatic-v1.2.1-mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GjqoNelE/versions/8I38sNEh/Subaquatic-v1.2.1-mc1.12.2.jar"
+hash-format = "sha1"
+hash = "863e8c2bc32582b19ac7e1920f8738fa32254cb4"
+
+[update]
+[update.modrinth]
+mod-id = "GjqoNelE"
+version = "8I38sNEh"

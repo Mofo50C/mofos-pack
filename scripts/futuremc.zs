@@ -8,10 +8,9 @@ recipes.addShapeless("bamboo_fmc2bop", <biomesoplenty:bamboo>, [<futuremc:bamboo
 
 // blast furnace
 recipes.remove(<futuremc:blast_furnace>);
-val stone = <futuremc:smooth_stone>;
+val stone = <minecraft:stone>;
 
 recipes.addShaped("futuremc_furnace", <futuremc:blast_furnace>,
 [   [null, stone, null],
     [stone, <minecraft:furnace>, stone],
     [null, stone, null]  ]);
-
