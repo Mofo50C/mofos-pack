@@ -1,0 +1,13 @@
+name = "Spartan Netherite"
+filename = "SpartanNetherite-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a95dbf4aa4e62c4bfa7797e4c7dd181254dd855"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4637876
+project-id = 887466

@@ -1,0 +1,13 @@
+name = "Piston API"
+filename = "Piston-API-v1.0.1-mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nnQf23Fs/versions/X1V1N6qv/Piston-API-v1.0.1-mc1.12.2.jar"
+hash-format = "sha1"
+hash = "42cdb46cbcf825a6915f06462f40ea8d57973581"
+
+[update]
+[update.modrinth]
+mod-id = "nnQf23Fs"
+version = "X1V1N6qv"

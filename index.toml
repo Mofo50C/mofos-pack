@@ -26,7 +26,7 @@ hash = "1d6eff33f04cbb56efc38ed754de90199ce3afa5ae7cd202a57a045f2b0c1860"
 
 [[files]]
 file = "config/Elenai Dodge.cfg"
-hash = "09f55fef63d15227a8db713538b505940b129fb142c325e47b6fc86ba1086132"
+hash = "102e826c3ec832ace1aad7a26e8a6f1cbb7db9902ac3bb3173d2591b332f44c0"
 
 [[files]]
 file = "config/Extreme Reactors/Extreme Reactors.cfg"
@@ -867,10 +867,6 @@ hash = "288f7285ee40430f20c0aec18ea0746693d8e23ea18bf919ce6afa14cd74c9c6"
 [[files]]
 file = "config/darkutils.cfg"
 hash = "74fbf36297c2620f03c1e4f4bd36fbb399712cf22515c9898c5148a93af46ada"
-
-[[files]]
-file = "config/deepmoblearning.cfg"
-hash = "2161f62733af8f05dcecdd76d0130564e5b066a4bcd63fdb464535080a038f81"
 
 [[files]]
 file = "config/disenchanter.cfg"
@@ -2381,6 +2377,10 @@ file = "config/vanillafix.cfg"
 hash = "2046a3b1f7bc555e81bcd32cbf6971fd2d129be4252561eb01b14e197b7b3b47"
 
 [[files]]
+file = "config/walljump.cfg"
+hash = "f3b823368b34d07bf8b94d6edfa0872fc600feca02428e03fd67da75e9c16ed3"
+
+[[files]]
 file = "config/wither_skeleton_tweaks.cfg"
 hash = "ec7bbc18645702df530774d796b70ca07b5f8a75b38490be4e53f2016185f5e3"
 
@@ -2525,6 +2525,11 @@ metafile = true
 [[files]]
 file = "mods/better-builders-wands.pw.toml"
 hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "15a42ffe289dfb7dc717486dc9a6ea4e4bbcdaa35953c60ce0e726d6971381fe"
 metafile = true
 
 [[files]]
@@ -2713,8 +2718,8 @@ hash = "82082f91a6c398a8a007c9cec2b21a10cb299e4d15c9ea4d59973309f8d35596"
 metafile = true
 
 [[files]]
-file = "mods/deep-mob-learning.pw.toml"
-hash = "5dab6d514f9b8fd83bee0e85049bcdc0df2591c4948823adda975d3e9a67ac20"
+file = "mods/dme.pw.toml"
+hash = "a50f2b04f0cb3af6c3a8155141bec3d24b9da168e09e662bd9b613ba8846c229"
 metafile = true
 
 [[files]]
@@ -3083,6 +3088,11 @@ hash = "6fc71bf665222edefe9b25de5c2d473aefba55a449c99ad89186c0d7ceaabeb5"
 metafile = true
 
 [[files]]
+file = "mods/nether-api.pw.toml"
+hash = "3d9a45558c9636d78375f3b2fb6d90e4b3a20a0464c4852f5243482728a88250"
+metafile = true
+
+[[files]]
 file = "mods/netherex.pw.toml"
 hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
 metafile = true
@@ -3090,11 +3100,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
-metafile = true
-
-[[files]]
-file = "mods/nofog.pw.toml"
-hash = "4c4d54d6272a4588b14f18456c50fb73c313d11523ccaa891386890b68e2350b"
 metafile = true
 
 [[files]]
@@ -3150,6 +3155,11 @@ metafile = true
 [[files]]
 file = "mods/pipeblocker.pw.toml"
 hash = "4dfb8ea1e34843211fc0a04542c26fc8b487900110df52ac9a10cf20a0b34be6"
+metafile = true
+
+[[files]]
+file = "mods/piston-api.pw.toml"
+hash = "df54e72f6023aa38d920a815193e188773a9d55a02df3494b6f35fa604a0c27b"
 metafile = true
 
 [[files]]
@@ -3308,6 +3318,11 @@ hash = "17641cb76daf92badcc7330990416e8b7d4a4f80cf0b3963397e95302a9dd0d6"
 metafile = true
 
 [[files]]
+file = "mods/spartan-netherite.pw.toml"
+hash = "118a981cc5e53f7bafc6d1de446768ab204fd3977001c75b9f4490a5d77faedc"
+metafile = true
+
+[[files]]
 file = "mods/spartan-shields.pw.toml"
 hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
 metafile = true
@@ -3440,6 +3455,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrielib.pw.toml"
 hash = "96ad1f64d7a17ef970c3be83443c65fb8ddb90f908fccaa4a969ac67614ec48f"
+metafile = true
+
+[[files]]
+file = "mods/wall-jump.pw.toml"
+hash = "820a26e3ac70b64cef49f3621ec1f72ae6d40c88866fbeb165c25810ea545b3f"
 metafile = true
 
 [[files]]
