@@ -726,7 +726,7 @@ hash = "b760ba088ac2f391c16c7c98351b4af14a48fe01bc591c40401cf4d9b8519cdd"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "d28bf83a7ee4d1a9e3ee4300faae0be4fae16256c0dcc505f317dc3cc3558911"
+hash = "7d892145fd6b931a60f25c8685e812bbb2670bd1cb2d0d6ffaa117e3a7f9cd23"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -774,7 +774,7 @@ hash = "0033114233ce613c785abf4fbe00cb64bfb416665f2c0838a5271ce421ea3e28"
 
 [[files]]
 file = "config/cofh/thermalfoundation/common.cfg"
-hash = "b51c9bcc1df2c54b81bbcc612f40d9efa10ce61c62344a0913d89995763a1b4c"
+hash = "3e7df39b27aa7fde283f968e66540a9634e7e2ee08659e6377cc8a9851b766be"
 
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
@@ -894,7 +894,7 @@ hash = "22aad4d742ec8d73ae812bb450220e75dc4f3540934de2ca934eb79c535ed4f7"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
-hash = "50380bc9e324e0441d93d864281fd2882dd33e240e9bc30653d612d0c99caf50"
+hash = "021f30a176f114c5db73e6d962b794f78d9479237cbc20f7f18541bc4d0d1db5"
 
 [[files]]
 file = "config/enderio/enderioconduits.cfg"
@@ -2146,11 +2146,11 @@ hash = "947a452055771f3c8550d3bea991b08785f455a0775482a785609e37f464e3fc"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "3df594896ca39c0ced55833e5726c0adde3b5e07ac59c3392f6740a152c9041d"
+hash = "09a8f2a69f21a7662ac3d4ededc5bf6f919fca5b68a2009a2b4d4444efd9e5cd"
 
 [[files]]
 file = "config/railcraft/blocks.cfg"
-hash = "9a67d7ed8bfb9fbee646853d1de4464e9d90ef211dbda3d52d448bd07fabe23e"
+hash = "d80b6baac1607a4a28ef86d87e08108ef580b6aa52097d17a474da145b0c65fe"
 
 [[files]]
 file = "config/railcraft/client.cfg"
@@ -2258,7 +2258,7 @@ hash = "d552752a55d392092595e8c46852e1fc3958785ec596874ced0ed3aa8f91ae06"
 
 [[files]]
 file = "config/spartanshields.cfg"
-hash = "aa55e90b4fbba7e33b3bbec475f52156829eb2cfd400b1fbcab7947e0feac07c"
+hash = "4e51fc736634e38ce9246cf527a6752260b2cce4105f9f02d71e17f5afb818cd"
 
 [[files]]
 file = "config/spartanweaponry.cfg"
@@ -3534,7 +3534,7 @@ hash = "0b9376dc862bd24a07b141d06f1752846e6d17ede7c3a6e6ad67bde95f857426"
 
 [[files]]
 file = "scripts/chisel.zs"
-hash = "9296843532229bbcad3ff9a79a7bcc7198daf37716efd76bfc8b25f87b6f304d"
+hash = "21dc19f6071d7874ef18dd426dd4742f1ef68da4a4d38ab4cd70b24096b27f06"
 
 [[files]]
 file = "scripts/compat_fixes.zs"
