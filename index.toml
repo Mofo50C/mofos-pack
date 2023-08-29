@@ -2498,6 +2498,11 @@ hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
 metafile = true
 
 [[files]]
+file = "mods/barkifier.pw.toml"
+hash = "7bda12cdf3dbd1582cdb641e77936dfc26176b357a83f9304af353384d5547bb"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -2720,6 +2725,11 @@ metafile = true
 [[files]]
 file = "mods/dme.pw.toml"
 hash = "a50f2b04f0cb3af6c3a8155141bec3d24b9da168e09e662bd9b613ba8846c229"
+metafile = true
+
+[[files]]
+file = "mods/draw-bridge.pw.toml"
+hash = "1ad8460d6bebf5c50f1fafff75030c0295b0678dc426d63aff98871515961f65"
 metafile = true
 
 [[files]]
