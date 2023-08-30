@@ -1294,7 +1294,7 @@ hash = "356261a6eac626cf9d062fac8823f986945f91df626525cfe00dec9fcf012907"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "b3baf8c4d9de4cd60a004c05660c3d8ad064740f6e300ffb0812f2c0a4f62df4"
+hash = "e9b9928080da7c1e776ac896015ec49ddc4ccb2c569146a04a2e87fe1bdacfaf"
 
 [[files]]
 file = "config/harvestcraft.cfg"
@@ -2498,11 +2498,6 @@ hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
 metafile = true
 
 [[files]]
-file = "mods/barkifier.pw.toml"
-hash = "7bda12cdf3dbd1582cdb641e77936dfc26176b357a83f9304af353384d5547bb"
-metafile = true
-
-[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -2718,11 +2713,6 @@ hash = "a9a80751bce6b64e5500ccd806b28b44f14e9960cb2ab1b4f6eca8cf771a9c99"
 metafile = true
 
 [[files]]
-file = "mods/debark.pw.toml"
-hash = "82082f91a6c398a8a007c9cec2b21a10cb299e4d15c9ea4d59973309f8d35596"
-metafile = true
-
-[[files]]
 file = "mods/dme.pw.toml"
 hash = "a50f2b04f0cb3af6c3a8155141bec3d24b9da168e09e662bd9b613ba8846c229"
 metafile = true
@@ -2870,6 +2860,11 @@ metafile = true
 [[files]]
 file = "mods/hesperus.pw.toml"
 hash = "ffb910f20ca70c086226d815c602ed0e8c1ab7904cc0f82a9537ae43b83cbc8a"
+metafile = true
+
+[[files]]
+file = "mods/hitwithaxe.pw.toml"
+hash = "138c664904023ec8aed40f1f04aca8b24eb7b245b293d5e940b1d38b02401cf4"
 metafile = true
 
 [[files]]
@@ -3561,6 +3556,10 @@ hash = "81e74a1ba7a3c62e985ebb5413097bba0ed11df065fb4b297fe9becd0de4fc58"
 [[files]]
 file = "scripts/futuremc.zs"
 hash = "6d6f9f52f736c33f5af79312996ade8b67aae3542581154d11673893864c625f"
+
+[[files]]
+file = "scripts/hitwithaxe.zs"
+hash = "1c8345b234a2c95cb95a994187ca5d69ffc0ceb9ddc0007f5ae192a0452b2576"
 
 [[files]]
 file = "scripts/ice_fire.zs"

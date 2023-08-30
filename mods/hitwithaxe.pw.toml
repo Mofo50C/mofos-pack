@@ -1,0 +1,13 @@
+name = "HitWithAxe"
+filename = "Hit With Axe-1.12.2-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e440222c478c59944c682439b37751985252de56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3011406
+project-id = 300454
